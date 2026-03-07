@@ -1,0 +1,205 @@
+{
+  "id": "cloudflare-startups",
+  "name": "Cloudflare for Startups",
+  "provider": "Cloudflare for Startups",
+  "status": "active",
+  "summary": "Cloudflare for Startups helps startups connect, protect, and build Internet and SaaS applications.",
+  "benefits": [
+    "Up to $250,000 in Cloudflare credits",
+    "Security and performance services",
+    "Optimized connectivity cloud for AI"
+  ],
+  "eligibility": [
+    "Building a software product or service with an active website",
+    "Funded up to series B",
+    "Founded within the last 5 years",
+    "Have a valid website and email address"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.cloudflare.com/forstartups/",
+  "sources": [
+    {
+      "url": "https://www.cloudflare.com/startups/",
+      "title": "Cloudflare for Startups | Cloudflare",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://www.cloudflare.com/forstartups/",
+      "title": "Cloudflare for Startups | Cloudflare",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.cloudflare.com/forstartups/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $250,000 in Cloudflare credits",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": " Italiano 日本語 한국어 Polski Português (Brasil) Русский 繁體中文 简体中文 Platform Connectivity cloud Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance service"
+        }
+      ]
+    },
+    {
+      "claim": "Security and performance services",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": "简体中文 Platform Connectivity cloud Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance services. Enterprise For large and medium organizations Small bu"
+        }
+      ]
+    },
+    {
+      "claim": "Optimized connectivity cloud for AI",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": "business plans Individual plans Compare plans Global services Support and success bundles Optimized Cloudflare experience Professional services Expert-led implementation Technical "
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Building a software product or service with an active website",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": "re Workers Playground Build, test, and deploy Developers Discord Join the community Start building documentation Developer library Documentation and guides Application demos Explor"
+        }
+      ]
+    },
+    {
+      "claim": "Funded up to series B",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": " of the following criteria: Building a software product or service with an active website Funded up to series B Founded within the last 5 years Have a valid website and email addre"
+        }
+      ]
+    },
+    {
+      "claim": "Founded within the last 5 years",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": "eria: Building a software product or service with an active website Funded up to series B Founded within the last 5 years Have a valid website and email address Get started in 3 ea"
+        }
+      ]
+    },
+    {
+      "claim": "Have a valid website and email address",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/startups/",
+          "title": "Cloudflare for Startups | Cloudflare",
+          "snippet": "t or service with an active website Funded up to series B Founded within the last 5 years Have a valid website and email address Get started in 3 easy steps Sign up for a free acco"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 3/3",
+    "eligibility cited 4/4"
+  ]
+}

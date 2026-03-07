@@ -1,0 +1,164 @@
+{
+  "id": "stripe-atlas",
+  "name": "Stripe Atlas",
+  "provider": "Stripe Atlas",
+  "status": "active",
+  "summary": "Stripe Atlas helps startups incorporate in Delaware and provides tools for banking, fundraising, and accepting payments.",
+  "benefits": [
+    "Company incorporation in Delaware",
+    "Company tax ID (EIN)",
+    "Founder equity issuance and share purchase",
+    "83(b) election filing",
+    "$2,500 in Stripe product credits",
+    "Access to over $50,000 in partner discounts"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required.",
+    "Geographic restrictions may apply."
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://stripe.com/en-hu/atlas",
+  "sources": [
+    {
+      "url": "https://stripe.com/atlas",
+      "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://stripe.com/en-hu/atlas",
+      "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://stripe.com/en-hu/atlas",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Company incorporation in Delaware",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "ct sales Become a partner Atlas Overview Guides Docs Incorporate your start-up Start your company in a few clicks. Bank, fundraise, and charge customers immediately after incorpora"
+        }
+      ]
+    },
+    {
+      "claim": "Company tax ID (EIN)",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "ct sales Become a partner Atlas Overview Guides Docs Incorporate your start-up Start your company in a few clicks. Bank, fundraise, and charge customers immediately after incorpora"
+        }
+      ]
+    },
+    {
+      "claim": "Founder equity issuance and share purchase",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "stomers immediately after incorporating. Why Atlas Fast, trusted, automated Join 100,000+ founders who have used Stripe Atlas to incorporate in Delaware, get their company tax ID ("
+        }
+      ]
+    },
+    {
+      "claim": "83(b) election filing",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "e in Delaware, get their company tax ID (EIN), issue founder equity, and file their 83(b) election. Trusted by startups, investors, and law firms Atlas legal documents are created "
+        }
+      ]
+    },
+    {
+      "claim": "$2,500 in Stripe product credits",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "Stripe logo Products Solutions Developers Resources Pricing Products Solutions Developers "
+        }
+      ]
+    },
+    {
+      "claim": "Access to over $50,000 in partner discounts",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "built payment form Elements Flexible UI components Flexible UI components Payment methods Access to 100+ Access to 100+ Terminal In-person payments In-person payments Radar Fraud p"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://stripe.com/atlas",
+          "title": "Stripe Atlas | Incorporate your start-up in Delaware: C corp or LLC",
+          "snippet": "nomy Hospitality, travel and leisure Insurance Media and entertainment Non-profits Retail Partners Stripe App Marketplace Stripe docs API reference Libraries and SDKs Stripe Apps A"
+        }
+      ]
+    },
+    {
+      "claim": "Geographic restrictions may apply.",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-hu/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 6/6",
+    "eligibility cited 2/2"
+  ]
+}

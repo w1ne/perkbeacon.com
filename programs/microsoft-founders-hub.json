@@ -1,0 +1,124 @@
+{
+  "id": "microsoft-founders-hub",
+  "name": "Microsoft for Startups Founders Hub",
+  "provider": "Microsoft for Startups Founders Hub",
+  "status": "changed",
+  "summary": "Microsoft for Startups Founders Hub supports startups through various resources.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "unknown"
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://portal.startups.microsoft.com/",
+  "sources": [
+    {
+      "url": "https://foundershub.startups.microsoft.com/",
+      "title": "Microsoft for Startups",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://portal.startups.microsoft.com/",
+      "title": "Microsoft for Startups",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://portal.startups.microsoft.com/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [],
+  "confidence_score": 50,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits unknown",
+    "eligibility unknown"
+  ]
+}

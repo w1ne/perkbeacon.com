@@ -1,0 +1,147 @@
+{
+  "id": "google-cloud-startups",
+  "name": "Google Cloud for Startups",
+  "provider": "Google Cloud for Startups",
+  "status": "active",
+  "summary": "Google Cloud for Startups provides cloud credits and support for early-stage startups.",
+  "benefits": [
+    "Up to $350,000 in cloud credits for Seed to Series A startups",
+    "Customized support and solutions"
+  ],
+  "eligibility": [
+    "Seed to Series A startups",
+    "AI-first startups (may be eligible for higher credit amounts)"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://cloud.google.com/startup",
+  "sources": [
+    {
+      "url": "https://cloud.google.com/startup",
+      "title": "Startups | Google Cloud",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://cloud.google.com/startup",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $350,000 in cloud credits for Seed to Series A startups",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "Register for Google Cloud Next ’26 to join us in Las Vegas April 22-24. The next generation of startups are bu"
+        }
+      ]
+    },
+    {
+      "claim": "Customized support and solutions",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "h the Google for Startups Cloud Program, and Series B+ startups can continue scaling with customized support and solutions. A customized approach to your growth journey A customize"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Seed to Series A startups",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "rney A customized approach to your growth journey Get up to $350,000 in credits if you're Seed to Series A Build and grow with $200,000 in cloud credits (or up to $350,000 for AI-f"
+        }
+      ]
+    },
+    {
+      "claim": "AI-first startups (may be eligible for higher credit amounts)",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": " Seed to Series A Build and grow with $200,000 in cloud credits (or up to $350,000 for AI-first startups) through the Google for Startups Cloud Program. Get $2,000 to build your MV"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 2/2",
+    "eligibility cited 2/2"
+  ]
+}

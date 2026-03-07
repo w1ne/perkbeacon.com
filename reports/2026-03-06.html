@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PerkBeacon Report - 2026-03-06</title>
+  <style>
+:root {
+  --bg: #f7f8f5;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #5b6472;
+  --line: #dbe0e6;
+  --accent: #0d5b42;
+  --accent-soft: #edf7f3;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 15% -10%, #e8f3ee, transparent), var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Sans", "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+.container {
+  width: min(1180px, 92vw);
+  margin: 2rem auto 3rem;
+}
+header h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  letter-spacing: -0.02em;
+}
+.subtitle { color: var(--muted); margin-top: .35rem; }
+.section { margin-top: 1.5rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.badge {
+  display: inline-block;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid #cfe6dc;
+  border-radius: 999px;
+  font-size: .74rem;
+  padding: .2rem .55rem;
+  margin-bottom: .5rem;
+}
+.card h3 { margin: 0 0 .4rem; font-size: 1.02rem; }
+.card p { margin: .2rem 0; color: var(--muted); font-size: .92rem; }
+a { color: #0a5bbb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.kpi {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: .8rem;
+}
+.kpi .card { text-align: center; }
+.kpi strong { display: block; font-size: 1.45rem; }
+.table-wrap { overflow: auto; }
+table { width: 100%; border-collapse: collapse; background: var(--card); }
+th, td { text-align: left; padding: .65rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: #f8fafc; font-size: .9rem; }
+th button.sort-btn {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  padding: 0;
+  cursor: pointer;
+}
+th button.sort-btn::after {
+  content: " \2195";
+  color: #8a95a4;
+  font-size: .82em;
+}
+th button.sort-btn[data-dir="asc"]::after { content: " \2191"; color: var(--accent); }
+th button.sort-btn[data-dir="desc"]::after { content: " \2193"; color: var(--accent); }
+small.muted { color: var(--muted); }
+.report {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.2rem;
+}
+.report h1, .report h2, .report h3 { line-height: 1.2; }
+.report code { background: #f2f4f7; padding: .12rem .3rem; border-radius: 4px; }
+.report pre { background: #f2f4f7; padding: .8rem; overflow: auto; border-radius: 8px; }
+</style>
+</head>
+<body>
+  <main class="container">
+    <p><a href="/">PerkBeacon Home</a></p>
+    <article class="report"><h1>Daily Startup Perks Research - 2026-03-06</h1>
+<h2>Key Updates</h2>
+<ul>
+<li>Applied strict per-claim citation guardrails: uncited claims are now dropped to unknown.</li>
+<li>Computed confidence scores for all programs and filtered low-confidence entries from homepage.</li>
+</ul>
+<h2>New Programs</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Changes Detected</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Removed/Archived Programs</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Notable Opportunities</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://foundershub.startups.microsoft.com/">https://foundershub.startups.microsoft.com/</a></li>
+<li><a href="https://portal.startups.microsoft.com/">https://portal.startups.microsoft.com/</a></li>
+<li><a href="https://www.notion.so/startups">https://www.notion.so/startups</a></li>
+<li><a href="https://www.notion.com/startups">https://www.notion.com/startups</a></li>
+<li><a href="https://www.digitalocean.com/hatch">https://www.digitalocean.com/hatch</a></li>
+<li><a href="https://www.digitalocean.com/startups">https://www.digitalocean.com/startups</a></li>
+<li><a href="https://aws.amazon.com/activate/">https://aws.amazon.com/activate/</a></li>
+<li><a href="https://aws.amazon.com/startups">https://aws.amazon.com/startups</a></li>
+<li><a href="https://www.nvidia.com/en-us/startups/">https://www.nvidia.com/en-us/startups/</a></li>
+<li><a href="https://stripe.com/atlas">https://stripe.com/atlas</a></li>
+<li><a href="https://stripe.com/en-hu/atlas">https://stripe.com/en-hu/atlas</a></li>
+<li><a href="https://www.cloudflare.com/startups/">https://www.cloudflare.com/startups/</a></li>
+<li><a href="https://www.cloudflare.com/forstartups/">https://www.cloudflare.com/forstartups/</a></li>
+<li><a href="https://miro.com/startups/">https://miro.com/startups/</a></li>
+<li><a href="https://github.com/enterprise/startups">https://github.com/enterprise/startups</a></li>
+<li><a href="https://mercury.com/perks">https://mercury.com/perks</a></li>
+<li><a href="https://cloud.google.com/startup">https://cloud.google.com/startup</a></li>
+<li><a href="https://www.atlassian.com/startups">https://www.atlassian.com/startups</a></li>
+<li><a href="https://www.atlassian.com/software/startups">https://www.atlassian.com/software/startups</a></li>
+<li><a href="https://www.brex.com/support/brex-partner-perks">https://www.brex.com/support/brex-partner-perks</a></li>
+<li><a href="https://www.hubspot.com/startups">https://www.hubspot.com/startups</a></li>
+</ul></article>
+  </main>
+</body>
+</html>

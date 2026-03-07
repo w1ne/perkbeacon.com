@@ -1,0 +1,198 @@
+{
+  "id": "miro-startups",
+  "name": "Miro for Startups",
+  "provider": "Miro",
+  "status": "active",
+  "summary": "Miro offers free credits and discounts of up to 25% for startups to help them brainstorm, plan, build, and drive big results.",
+  "benefits": [
+    "Free Miro credits",
+    "Up to 25% discount"
+  ],
+  "eligibility": [
+    "Funding stage requirements apply.",
+    "Partner or accelerator affiliation may be required.",
+    "Geographic restrictions may apply."
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://miro.com/startups/",
+  "sources": [
+    {
+      "url": "https://miro.com/startups/",
+      "title": "Start up faster together with Miro - Miro | The Innovation Workspace",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://miro.com/startups/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Free Miro credits",
+      "citations": [
+        {
+          "url": "https://miro.com/startups/",
+          "title": "Start up faster together with Miro - Miro | The Innovation Workspace",
+          "snippet": "s startup community gives you exclusive offers and perks to help you get great done. Get free Miro credits â starting from zero is easier with our tools, templates, and platform"
+        }
+      ]
+    },
+    {
+      "claim": "Up to 25% discount",
+      "citations": [
+        {
+          "url": "https://miro.com/startups/",
+          "title": "Start up faster together with Miro - Miro | The Innovation Workspace",
+          "snippet": "om zero is easier with our tools, templates, and platform. Get your credits Get up to 25% discount. Miro scales quickly to match your growth pace. Let our AI handle routine tasks s"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Funding stage requirements apply.",
+      "citations": [
+        {
+          "url": "https://miro.com/startups/",
+          "title": "Start up faster together with Miro - Miro | The Innovation Workspace",
+          "snippet": "Product AI Innovation Workspace AI AI Overview AI Workflows Your AI & Knowledge MCP AI Playbooks Product Acceleration About Product Acceleration Product Management Prototypes Insig"
+        }
+      ]
+    },
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://miro.com/startups/",
+          "title": "Start up faster together with Miro - Miro | The Innovation Workspace",
+          "snippet": "w Templates & Miroverse Support & Learning Academy Help Center Events Webinars User Forum Partners & Services Miro Professional Services Solution Partners Get great done faster Cus"
+        }
+      ]
+    },
+    {
+      "claim": "Geographic restrictions may apply.",
+      "citations": [
+        {
+          "url": "https://miro.com/startups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 2/2",
+    "eligibility cited 3/3"
+  ]
+}

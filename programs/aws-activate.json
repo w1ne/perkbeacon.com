@@ -1,0 +1,125 @@
+{
+  "id": "aws-activate",
+  "name": "AWS Activate",
+  "provider": "AWS Activate",
+  "status": "active",
+  "summary": "AWS Activate provides startups with cloud credits, technical support, and business mentorship.",
+  "benefits": [
+    "Up to $100,000 in AWS Activate Credits",
+    "Technical support",
+    "Business mentorship"
+  ],
+  "eligibility": [
+    "Startups at any stage of growth or level of funding"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://aws.amazon.com/startups",
+  "sources": [
+    {
+      "url": "https://aws.amazon.com/activate/",
+      "title": "Build Your Startup",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://aws.amazon.com/activate/",
+      "title": "AWS Startups",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://aws.amazon.com/startups",
+      "title": "AWS Startups",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://aws.amazon.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $100,000 in AWS Activate Credits",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/activate/",
+          "title": "AWS Startups",
+          "snippet": "Grow your startup with AWS Join AWS Activate, our flagship startup program. Get started by creating your personal account (AWS"
+        }
+      ]
+    },
+    {
+      "claim": "Technical support",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/activate/",
+          "title": "AWS Startups",
+          "snippet": " From the earliest stages, the AWS Activate program provides startups with cloud credits, technical support, business mentorship, and more. Credits to help you test and build Apply"
+        }
+      ]
+    },
+    {
+      "claim": "Business mentorship",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/activate/",
+          "title": "AWS Startups",
+          "snippet": "nce (AI) to innovate faster, boost employee productivity, ignite creativity, and optimize business processes. Begin realizing the business value of generative AI today with AWS. Pr"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Startups at any stage of growth or level of funding",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/activate/",
+          "title": "AWS Startups",
+          "snippet": "ome before, AWS helps founders prove that their world-changing ideas are possible, at any stage of growth or level of funding. Whether your startup is just starting to ideate an MV"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 95,
+  "confidence_reasons": [
+    "program page verified",
+    "3 source(s)",
+    "benefits cited 3/3",
+    "eligibility cited 1/1"
+  ]
+}

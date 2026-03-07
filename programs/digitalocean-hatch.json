@@ -1,0 +1,173 @@
+{
+  "id": "digitalocean-hatch",
+  "name": "DigitalOcean Startups",
+  "provider": "DigitalOcean Hatch",
+  "status": "active",
+  "summary": "DigitalOcean Startups empowers AI startups to scale with affordable infrastructure and exclusive benefits.",
+  "benefits": [
+    "DigitalOcean credits (amount varies)",
+    "Expert one-on-ones with DigitalOcean product managers and engineers",
+    "Free access to Standard-tier paid support for 15 months",
+    "Access to DigitalOcean startup community",
+    "$1.90/GPU/hour on-demand GPU Droplets for 12 months!",
+    "20% off Stripe Atlas"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required."
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.digitalocean.com/startups",
+  "sources": [
+    {
+      "url": "https://www.digitalocean.com/hatch",
+      "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://www.digitalocean.com/startups",
+      "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.digitalocean.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "DigitalOcean credits (amount varies)",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "es Tutorials Questions and Answers Marketplace Tools Write for DOnations Customer Stories DigitalOcean Blog Pricing Calculator Get Involved DigitalOcean Startups Open Source Sponso"
+        }
+      ]
+    },
+    {
+      "claim": "Expert one-on-ones with DigitalOcean product managers and engineers",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "eliable site uptime VPS Hosting Virtual Machines Get help Migration Assistance Talk to an expert See all solutions AI and Machine Learning Develop, train, and deploy AI apps GPUs P"
+        }
+      ]
+    },
+    {
+      "claim": "Free access to Standard-tier paid support for 15 months",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "s CI/CD Prototyping Digital Marketing Agencies Power your clients’ websites and campaigns Freelancer IT Consulting Ecommerce Build beautiful online storefronts Dropshipping WooComm"
+        }
+      ]
+    },
+    {
+      "claim": "Access to DigitalOcean startup community",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "Network File Storage Developer Tools API CLI Support Plans Monitoring Uptime Identity and Access Management Marketplace Droplet 1-Click Kubernetes 1-Click AI 1-Click Models Add-Ons"
+        }
+      ]
+    },
+    {
+      "claim": "$1.90/GPU/hour on-demand GPU Droplets for 12 months!",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "rtups. Build, launch, and scale your dream venture faster and more efficiently. $1.90/GPU/hour on-demand GPU Droplets for 12 months! 20% off Stripe Atlas 1 year of Cloudflare Enter"
+        }
+      ]
+    },
+    {
+      "claim": "20% off Stripe Atlas",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": "faster and more efficiently. $1.90/GPU/hour on-demand GPU Droplets for 12 months! 20% off Stripe Atlas 1 year of Cloudflare Enterprise for free 2 months free of paid Standa"
+        }
+      ]
+    },
+    {
+      "claim": "1 year of Cloudflare Enterprise for free",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": " efficiently. $1.90/GPU/hour on-demand GPU Droplets for 12 months! 20% off Stripe Atlas 1 year of Cloudflare Enterprise for free 2 months free of paid Standa"
+        }
+      ]
+    },
+    {
+      "claim": "2 months free of paid Standard-tier support",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": " saying Johann Bengsston CTO, Brainforest DigitalOcean: Your launchpad to hyper-growth 12 months to scale Get the cloud infrastructure you need with DigitalOcean credits (amount va"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/hatch",
+          "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+          "snippet": " Backups & Snapshots Backups Snapshots SnapShooter Networking Virtual Private Cloud (VPC) Partner Network Connect Cloud Firewalls Load Balancers DNS DDoS Protection Managed Databas"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 8/6",
+    "eligibility cited 1/1"
+  ]
+}

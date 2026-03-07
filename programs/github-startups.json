@@ -1,0 +1,189 @@
+{
+  "id": "github-startups",
+  "name": "GitHub for Startups",
+  "provider": "GitHub for Startups",
+  "status": "active",
+  "summary": "GitHub for Startups offers startup-friendly pricing on GitHub Enterprise, Advanced Security, and support.",
+  "benefits": [
+    "Up to 20 seats of GitHub Enterprise free for one year",
+    "Up to 20 seats of GitHub Advanced Security 50% off for one year",
+    "Access to exclusive events and resources",
+    "Unlimited free public and private repositories"
+  ],
+  "eligibility": [
+    "Early-stage startup that has received outside equity funding (Series B or earlier)",
+    "New to GitHub Enterprise and/or Advanced Security"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://github.com/enterprise/startups",
+  "sources": [
+    {
+      "url": "https://github.com/enterprise/startups",
+      "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://github.com/enterprise/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to 20 seats of GitHub Enterprise free for one year",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "ith the tools and integrations to build, scale, and deliver secure software. Get up to 20 seats of GitHub Enterprise free for one year. Build securely from the start Scale confiden"
+        }
+      ]
+    },
+    {
+      "claim": "Up to 20 seats of GitHub Advanced Security 50% off for one year",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "ith the tools and integrations to build, scale, and deliver secure software. Get up to 20 seats of GitHub Enterprise free for one year. Build securely from the start Scale confiden"
+        }
+      ]
+    },
+    {
+      "claim": "Access to exclusive events and resources",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "you grow Join our global startup network of over 30k startups across 145+ countries. Gain access to exclusive events and resources designed to help you scale and succeed. Collabora"
+        }
+      ]
+    },
+    {
+      "claim": "Unlimited free public and private repositories",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "s fast with access to the world’s largest open source registry. Host it in the cloud with unlimited free public and private repositories. Start conversations, propose changes, and "
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Early-stage startup that has received outside equity funding (Series B or earlier)",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "usiness days. If you have any questions, please reach out to our team. * - required field Early-stage startup You must be an early-stage startup that has received outside equity fu"
+        }
+      ]
+    },
+    {
+      "claim": "New to GitHub Enterprise and/or Advanced Security",
+      "citations": [
+        {
+          "url": "https://github.com/enterprise/startups",
+          "title": "GitHub for Startups: Build your startup on GitHub · GitHub",
+          "snippet": "Navigation Menu Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps Gi"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 2/2"
+  ]
+}

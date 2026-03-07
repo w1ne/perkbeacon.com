@@ -1,0 +1,86 @@
+[
+  {
+    "id": "microsoft-founders-hub",
+    "name": "Microsoft for Startups Founders Hub",
+    "status": "changed",
+    "provider": "Microsoft for Startups Founders Hub"
+  },
+  {
+    "id": "notion-startup",
+    "name": "Notion for Startups",
+    "status": "changed",
+    "provider": "Notion for Startups"
+  },
+  {
+    "id": "digitalocean-hatch",
+    "name": "DigitalOcean Startups",
+    "status": "active",
+    "provider": "DigitalOcean Hatch"
+  },
+  {
+    "id": "aws-activate",
+    "name": "AWS Activate",
+    "status": "active",
+    "provider": "AWS Activate"
+  },
+  {
+    "id": "nvidia-inception",
+    "name": "NVIDIA Inception",
+    "status": "active",
+    "provider": "NVIDIA Inception"
+  },
+  {
+    "id": "stripe-atlas",
+    "name": "Stripe Atlas",
+    "status": "active",
+    "provider": "Stripe Atlas"
+  },
+  {
+    "id": "cloudflare-startups",
+    "name": "Cloudflare for Startups",
+    "status": "active",
+    "provider": "Cloudflare for Startups"
+  },
+  {
+    "id": "miro-startups",
+    "name": "Miro for Startups",
+    "status": "active",
+    "provider": "Miro"
+  },
+  {
+    "id": "github-startups",
+    "name": "GitHub for Startups",
+    "status": "active",
+    "provider": "GitHub for Startups"
+  },
+  {
+    "id": "mercury-perks",
+    "name": "Mercury Perks",
+    "status": "active",
+    "provider": "Mercury"
+  },
+  {
+    "id": "google-cloud-startups",
+    "name": "Google Cloud for Startups",
+    "status": "active",
+    "provider": "Google Cloud for Startups"
+  },
+  {
+    "id": "atlassian-startups",
+    "name": "Atlassian for Startups",
+    "status": "active",
+    "provider": "Atlassian for Startups"
+  },
+  {
+    "id": "brex-partner-perks",
+    "name": "Brex Partner Perks",
+    "status": "active",
+    "provider": "Brex"
+  },
+  {
+    "id": "hubspot-startups",
+    "name": "HubSpot for Startups",
+    "status": "active",
+    "provider": "HubSpot for Startups"
+  }
+]

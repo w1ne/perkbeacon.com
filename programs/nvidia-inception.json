@@ -1,0 +1,86 @@
+{
+  "id": "nvidia-inception",
+  "name": "NVIDIA Inception",
+  "provider": "NVIDIA Inception",
+  "status": "active",
+  "summary": "NVIDIA Inception is a program that provides resources for AI startups.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://www.nvidia.com/en-us/startups/",
+  "sources": [
+    {
+      "url": "https://www.nvidia.com/en-us/startups/",
+      "title": "Inception Program for Startups | NVIDIA",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.nvidia.com/en-us/startups/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://www.nvidia.com/en-us/startups/",
+          "title": "Inception Program for Startups | NVIDIA",
+          "snippet": "Visit your regional NVIDIA website for local content, pricing, and where to buy partners specific to your country. Products Cloud Services Data Center Embedded Systems Ga"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 65,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits unknown",
+    "eligibility cited 1/1"
+  ]
+}

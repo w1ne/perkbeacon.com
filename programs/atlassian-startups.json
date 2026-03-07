@@ -1,0 +1,227 @@
+{
+  "id": "atlassian-startups",
+  "name": "Atlassian for Startups",
+  "provider": "Atlassian for Startups",
+  "status": "active",
+  "summary": "Atlassian for Startups provides eligible startups with free access to the Premium edition of Atlassian products.",
+  "benefits": [
+    "Jira Premium (up to 50 seats)",
+    "Confluence Premium (up to 50 seats)",
+    "Loom Business + AI (up to 50 seats)",
+    "Jira Product Discovery Premium (up to 10 creator seats and unlimited contributor seats)",
+    "Compass Premium (up to 50 full user seats and unlimited basic user seats)",
+    "Bitbucket Premium (up to 50 seats)"
+  ],
+  "eligibility": [
+    "Not an existing Atlassian paid customer",
+    "VC funded or associated with a partner accelerator and/or incubator",
+    "Have not raised more than US$10 million in external funding"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.atlassian.com/software/startups",
+  "sources": [
+    {
+      "url": "https://www.atlassian.com/startups",
+      "title": "Atlassian for Startups | Atlassian",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://www.atlassian.com/software/startups",
+      "title": "Atlassian for Startups | Atlassian",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.atlassian.com/software/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Jira Premium (up to 50 seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "gers IT professionals Business Teams Leadership Teams See all apps Featured FEATURED APPS Jira Flexible project management Confluence Collaborative knowledge workspace Jira Service"
+        }
+      ]
+    },
+    {
+      "claim": "Confluence Premium (up to 50 seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "ams Leadership Teams See all apps Featured FEATURED APPS Jira Flexible project management Confluence Collaborative knowledge workspace Jira Service Management High-velocity service"
+        }
+      ]
+    },
+    {
+      "claim": "Loom Business + AI (up to 50 seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "ervice delivery ATLASSIAN COLLECTIONS Supercharge teamwork seamlessly Jira • Confluence • Loom • Rovo Optimize strategy and outcomes confidently Focus • Talent • Align Deliver serv"
+        }
+      ]
+    },
+    {
+      "claim": "Jira Product Discovery Premium (up to 10 creator seats and unlimited contributor seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "gers IT professionals Business Teams Leadership Teams See all apps Featured FEATURED APPS Jira Flexible project management Confluence Collaborative knowledge workspace Jira Service"
+        }
+      ]
+    },
+    {
+      "claim": "Compass Premium (up to 50 full user seats and unlimited basic user seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "t • Assets • Rovo Ship high-quality software fast Rovo Dev • DX • Pipelines • Bitbucket • Compass POWERED BY Rovo AI-powered apps – driven by your team's knowledge. Developers Jira"
+        }
+      ]
+    },
+    {
+      "claim": "Bitbucket Premium (up to 50 seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "ce Management • Assets • Rovo Ship high-quality software fast Rovo Dev • DX • Pipelines • Bitbucket • Compass POWERED BY Rovo AI-powered apps – driven by your team's knowledge. Dev"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Not an existing Atlassian paid customer",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": " the following criteria to be eligible for Atlassian for Startups: Your company is not an existing Atlassian paid customer VC funded or associated with a partner accelerator and/or"
+        }
+      ]
+    },
+    {
+      "claim": "VC funded or associated with a partner accelerator and/or incubator",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "le for Atlassian for Startups: Your company is not an existing Atlassian paid customer VC funded or associated with a partner accelerator and/or incubator Have not raised more than"
+        }
+      ]
+    },
+    {
+      "claim": "Have not raised more than US$10 million in external funding",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/startups",
+          "title": "Atlassian for Startups | Atlassian",
+          "snippet": "rry about cost. Ensuring your success Dedicated Customer Success Managers ensure startups have hands-on support throughout the 12-month program. Find your people Network with other"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 6/6",
+    "eligibility cited 3/3"
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "id": "brex-partner-perks",
+  "name": "Brex Partner Perks",
+  "provider": "Brex",
+  "status": "active",
+  "summary": "Brex cardholders have access to hundreds of cardholder benefits through Brex partners, as well as a sign-on bonus for new customers.",
+  "benefits": [
+    "AWS credits",
+    "Anthropic API credits",
+    "Attio discount",
+    "Carta discount and Brex points",
+    "Deel credits or discount",
+    "Delve discount"
+  ],
+  "eligibility": [
+    "Brex cardholders"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.brex.com/support/brex-partner-perks",
+  "sources": [
+    {
+      "url": "https://www.brex.com/support/brex-partner-perks",
+      "title": "Brex partner perks",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.brex.com/support/brex-partner-perks",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "AWS credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " partners are: Amazon Web Services: All new Brex customers are eligible for $5,000 in AWS credits depending on Activate eligibility. Anthropic: Gain access to $500 in API credits a"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic API credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Brex customers are eligible for $5,000 in AWS credits depending on Activate eligibility. Anthropic: Gain access to $500 in API credits and priority support routing. Attio: Redeem "
+        }
+      ]
+    },
+    {
+      "claim": "Attio discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " eligibility. Anthropic: Gain access to $500 in API credits and priority support routing. Attio: Redeem up to 80% off one year of their Pro plan. Carta: Receive a 20% discount on y"
+        }
+      ]
+    },
+    {
+      "claim": "Carta discount and Brex points",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "its and priority support routing. Attio: Redeem up to 80% off one year of their Pro plan. Carta: Receive a 20% discount on your first year, waived implementation fees, and 10,000 B"
+        }
+      ]
+    },
+    {
+      "claim": "Deel credits or discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "ve a 20% discount on your first year, waived implementation fees, and 10,000 Brex points. Deel: Get up to $5,000 in credits or 50% off your first year. Delve: Receive 20% off all c"
+        }
+      ]
+    },
+    {
+      "claim": "Delve discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "es, and 10,000 Brex points. Deel: Get up to $5,000 in credits or 50% off your first year. Delve: Receive 20% off all compliance frameworks and 18% off bundled packages. Drata: Get "
+        }
+      ]
+    },
+    {
+      "claim": "Drata discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "irst year. Delve: Receive 20% off all compliance frameworks and 18% off bundled packages. Drata: Get 25% off your first Drata contract. Elevenlabs.io: 3 months free to build, test "
+        }
+      ]
+    },
+    {
+      "claim": "Elevenlabs.io free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "ce frameworks and 18% off bundled packages. Drata: Get 25% off your first Drata contract. Elevenlabs.io: 3 months free to build, test and launch with ElevenLabs voices and sounds w"
+        }
+      ]
+    },
+    {
+      "claim": "Framer free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "est and launch with ElevenLabs voices and sounds with 11 M characters included per month. Framer: Brex customers get 1 year free of Framer (Launch Plan). Github: Get 20 seats free "
+        }
+      ]
+    },
+    {
+      "claim": "Github free seats",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "cters included per month. Framer: Brex customers get 1 year free of Framer (Launch Plan). Github: Get 20 seats free in your first year of GitHub Enterprise. Granola: Unlock 3 month"
+        }
+      ]
+    },
+    {
+      "claim": "Granola free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Framer (Launch Plan). Github: Get 20 seats free in your first year of GitHub Enterprise. Granola: Unlock 3 months free today. Gusto: Get 50% off your first year of service across "
+        }
+      ]
+    },
+    {
+      "claim": "Gusto discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " seats free in your first year of GitHub Enterprise. Granola: Unlock 3 months free today. Gusto: Get 50% off your first year of service across any plan. Linear: Get 6 months free a"
+        }
+      ]
+    },
+    {
+      "claim": "Linear free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "nlock 3 months free today. Gusto: Get 50% off your first year of service across any plan. Linear: Get 6 months free access to Linear’s Business plan. Notion: Brex customers are eli"
+        }
+      ]
+    },
+    {
+      "claim": "Notion free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "r of service across any plan. Linear: Get 6 months free access to Linear’s Business plan. Notion: Brex customers are eligible for 6 months of free Notion towards a Business plan, i"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " for 6 months of free Notion towards a Business plan, including full access to Notion AI. OpenAI: Receive $2,500 in OpenAI credits for 1 year. Pulley: As a Brex customer, receive 2"
+        }
+      ]
+    },
+    {
+      "claim": "Pulley discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " including full access to Notion AI. OpenAI: Receive $2,500 in OpenAI credits for 1 year. Pulley: As a Brex customer, receive 25% off your first year. Pylon : 15% discount on annua"
+        }
+      ]
+    },
+    {
+      "claim": "Pylon discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "n OpenAI credits for 1 year. Pulley: As a Brex customer, receive 25% off your first year. Pylon : 15% discount on annual contracts for new customers. Slack: Brex customers are elig"
+        }
+      ]
+    },
+    {
+      "claim": "Slack discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "eive 25% off your first year. Pylon : 15% discount on annual contracts for new customers. Slack: Brex customers are eligible for 30% Off Slack Pro or Business+ plan for the first 1"
+        }
+      ]
+    },
+    {
+      "claim": "Superhuman free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " or Business+ plan for the first 12 months for companies with no more than 200 employees. Superhuman: One year free on Business plan for up to 5 seats. Vercel: Get an additional $5"
+        }
+      ]
+    },
+    {
+      "claim": "Vercel credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "no more than 200 employees. Superhuman: One year free on Business plan for up to 5 seats. Vercel: Get an additional $500 in v0 credits on Teams or Business plans. Warp: Connect wit"
+        }
+      ]
+    },
+    {
+      "claim": "Warp free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "r up to 5 seats. Vercel: Get an additional $500 in v0 credits on Teams or Business plans. Warp: Connect with a startup payroll expert to get started and unlock 6 months free on War"
+        }
+      ]
+    },
+    {
+      "claim": "Wispr discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "p: Connect with a startup payroll expert to get started and unlock 6 months free on Warp. Wispr: Unlock 50% off on your first year for your entire team. In your dashboard, navigate"
+        }
+      ]
+    },
+    {
+      "claim": "AngelList discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "shboard by following the steps above. Here are some of the many partner rewards we offer: AngelList: Get 20% off your first year of AngelList’s pricing plans. AG1: Access one year "
+        }
+      ]
+    },
+    {
+      "claim": "AG1 offer",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "wards > Perks and discounts . This page contains a list of our partners who are currently offering perks to Brex cardholders. Note: The availability of these perks may change over "
+        }
+      ]
+    },
+    {
+      "claim": "Efficient Capital Labs financing",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " AG1: Access one year supply of Vitamin D3+K2, 10 Travel Packs with Welcome Kit purchase. Efficient Capital Labs: You can receive up to 65% of your ARR in upfront growth capital, w"
+        }
+      ]
+    },
+    {
+      "claim": "Google Cloud credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Get up to $2M in financing from ECL within 72 hours, via a 15-minute online application. Google Cloud: You can have Google Cloud and Firebase costs covered up to $200,000 USD over"
+        }
+      ]
+    },
+    {
+      "claim": "Indeed credit",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "ud: You can have Google Cloud and Firebase costs covered up to $200,000 USD over 2 years. Indeed : Receive $500 credit towards sponsoring jobs on Indeed. Perplexity : Get 50% off P"
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "200,000 USD over 2 years. Indeed : Receive $500 credit towards sponsoring jobs on Indeed. Perplexity : Get 50% off Perplexity Enterprise Pro for 3 months for unlimited seats. Pilot"
+        }
+      ]
+    },
+    {
+      "claim": "Pilot discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "eed. Perplexity : Get 50% off Perplexity Enterprise Pro for 3 months for unlimited seats. Pilot : Brex customers can access 20% off Pilot Core or select bookkeeping for 6 months. P"
+        }
+      ]
+    },
+    {
+      "claim": "Plastiq rate",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Pilot : Brex customers can access 20% off Pilot Core or select bookkeeping for 6 months. Plastiq : Brex customers receive a preferred partner rate of 2.4%. QuickBooks Online: Save"
+        }
+      ]
+    },
+    {
+      "claim": "QuickBooks Online discount",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "kkeeping for 6 months. Plastiq : Brex customers receive a preferred partner rate of 2.4%. QuickBooks Online: Save 30% off your first 12 months. Retool: Access $25,000 in credits fo"
+        }
+      ]
+    },
+    {
+      "claim": "Retool credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "e a preferred partner rate of 2.4%. QuickBooks Online: Save 30% off your first 12 months. Retool: Access $25,000 in credits for 1 year for new customers. Tropic : Save ~23% on new "
+        }
+      ]
+    },
+    {
+      "claim": "Tropic savings",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "off your first 12 months. Retool: Access $25,000 in credits for 1 year for new customers. Tropic : Save ~23% on new & existing SaaS expenses + 10% on Tropic's platform fee. Vouch :"
+        }
+      ]
+    },
+    {
+      "claim": "Vouch savings and Brex points",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "omers. Tropic : Save ~23% on new & existing SaaS expenses + 10% on Tropic's platform fee. Vouch : Save up to 5% on startup business insurance, plus 10,000 Brex points. Zendesk : Br"
+        }
+      ]
+    },
+    {
+      "claim": "Zendesk free access",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "atform fee. Vouch : Save up to 5% on startup business insurance, plus 10,000 Brex points. Zendesk : Brex customers are eligible for 6 months of free Zendesk Support. 1Password : Re"
+        }
+      ]
+    },
+    {
+      "claim": "1Password credit",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Brex points. Zendesk : Brex customers are eligible for 6 months of free Zendesk Support. 1Password : Receive $100 credit on a 1Password Teams or Business account. Partner perk ter"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Brex cardholders",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "rs Pricing Sign in See a demo Get started Get started Help Center Browse by topic Rewards Brex partner perks Brex partner perks Overview Brex cardholders have access to hundreds of"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 36/6",
+    "eligibility cited 1/1"
+  ]
+}

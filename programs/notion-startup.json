@@ -1,0 +1,223 @@
+{
+  "id": "notion-startup",
+  "name": "Notion for Startups",
+  "provider": "Notion for Startups",
+  "status": "changed",
+  "summary": "Notion for Startups provides eligible startups with free access to Notion's Business plan, including Notion AI.",
+  "benefits": [
+    "6 months free on the Business plan with Notion AI included",
+    "3 months free with Notion AI included",
+    "1 month free with Notion AI included",
+    "Notion Perks: Exclusive software discounts"
+  ],
+  "eligibility": [
+    "Non-paying Notion customers",
+    "Under 100 employees",
+    "Affiliation with select startup partners (for 6-month offer)",
+    "Valid business website and company domain email address (for 3-month offer)",
+    "Under 10 employees (SMBs) or incomplete business information (for 1-month offer)"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.notion.com/startups",
+  "sources": [
+    {
+      "url": "https://www.notion.so/startups",
+      "title": "Your connected workspace for wiki, docs & projects | Notion",
+      "fetched_at": "2026-03-06"
+    },
+    {
+      "url": "https://www.notion.com/startups",
+      "title": "Your connected workspace for wiki, docs & projects | Notion",
+      "fetched_at": "2026-03-06"
+    }
+  ],
+  "last_verified_at": "2026-03-06",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-06",
+    "status": "verified",
+    "url": "https://www.notion.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "6 months free on the Business plan with Notion AI included",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "artups One workspace. Every startup tool. The AI workspace from idea to exit. Get up to 6 months free on the Business plan with Notion AI included. The fastest growing companies in"
+        }
+      ]
+    },
+    {
+      "claim": "3 months free with Notion AI included",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "artups One workspace. Every startup tool. The AI workspace from idea to exit. Get up to 6 months free on the Business plan with Notion AI included. The fastest growing companies in"
+        }
+      ]
+    },
+    {
+      "claim": "1 month free with Notion AI included",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "artups One workspace. Every startup tool. The AI workspace from idea to exit. Get up to 6 months free on the Business plan with Notion AI included. The fastest growing companies in"
+        }
+      ]
+    },
+    {
+      "claim": "Notion Perks: Exclusive software discounts",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "AI features Explore use cases Teams Company size Use Cases Browse Discover Learn Notion for Startups One workspace. Every startup tool. The AI workspace from idea to exit."
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Non-paying Notion customers",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "cheduling busywork. Eligibility & benefits. 6 months free with Notion AI included For non-paying Notion customers with under 100 employees and are affiliated with one of our select"
+        }
+      ]
+    },
+    {
+      "claim": "Under 100 employees",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "s to unblock work. The complete Startup OS. Your essential tools for building, built by founders for founders. Notion Mail The self-organizing inbox that drafts emails and schedule"
+        }
+      ]
+    },
+    {
+      "claim": "Affiliation with select startup partners (for 6-month offer)",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "AI features Explore use cases Teams Company size Use Cases Browse Discover Learn Notion for Startups One workspace. Every startup tool. The AI workspace from idea to exit. Get up t"
+        }
+      ]
+    },
+    {
+      "claim": "Valid business website and company domain email address (for 3-month offer)",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": " free with Notion AI included For non-paying Notion customers with under 100 employees, a valid business website, and a company domain email address. 1 month free with Notion AI in"
+        }
+      ]
+    },
+    {
+      "claim": "Under 10 employees (SMBs) or incomplete business information (for 1-month offer)",
+      "citations": [
+        {
+          "url": "https://www.notion.so/startups",
+          "title": "Your connected workspace for wiki, docs & projects | Notion",
+          "snippet": "s to unblock work. The complete Startup OS. Your essential tools for building, built by founders for founders. Notion Mail The self-organizing inbox that drafts emails and schedule"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 5/5"
+  ]
+}
