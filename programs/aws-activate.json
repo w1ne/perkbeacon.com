@@ -1,0 +1,235 @@
+{
+  "id": "aws-activate",
+  "name": "AWS Activate",
+  "provider": "Amazon Web Services",
+  "status": "changed",
+  "summary": "Flagship program providing cloud credits, Bedrock model access, and technical mentorship.",
+  "benefits": [
+    "Up to $100,000 in AWS Activate Credits for Portfolio startups",
+    "$1,000 in credits for self-funded Founders startups",
+    "Credits redeemable for third-party models (Anthropic, Meta, Mistral) on Amazon Bedrock",
+    "Access to Startup Showcase and AWS Partner Network (140,000+ partners)",
+    "Technical support credits applicable to Developer or Business Support tiers"
+  ],
+  "eligibility": [
+    "Founded within the last 10 years",
+    "Pre-Series B funding stage",
+    "Portfolio tier requires Org ID from an approved Activate Provider (VC/Accelerator)",
+    "Must have a fully functioning company website"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://aws.amazon.com/startups",
+  "sources": [
+    {
+      "url": "https://aws.amazon.com/startups/credits",
+      "title": "Get AWS Activate Credits",
+      "fetched_at": "2026-03-09"
+    },
+    {
+      "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+      "title": "AWS Activate Credits Guide",
+      "fetched_at": "2026-03-09"
+    },
+    {
+      "url": "https://aws.amazon.com/startups",
+      "title": "Build Your Startup",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://aws.amazon.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $100,000 in AWS Activate Credits for Portfolio startups",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "Apply for Activate Credits Fuel your startup's growth with AWS Activate Credits. Get started by crea"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "Learn Everything you need to know about AWS Activate Credits Everything you need to know about AWS Activate Credits How was this conte"
+        }
+      ]
+    },
+    {
+      "claim": "$1,000 in credits for self-funded Founders startups",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "Apply for Activate Credits Fuel your startup's growth with AWS Activate Credits. Get started by creating an a"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "Learn Everything you need to know about AWS Activate Credits Everything you need to know about AWS Activate Credits How was this content? Let A"
+        }
+      ]
+    },
+    {
+      "claim": "Credits redeemable for third-party models (Anthropic, Meta, Mistral) on Amazon Bedrock",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "Apply for Activate Credits Fuel your startup's growth with AWS Activate Credits. Get started by creating an a"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "Learn Everything you need to know about AWS Activate Credits Everything you need to know about AWS Activate Credits How was this content? Let A"
+        }
+      ]
+    },
+    {
+      "claim": "Access to Startup Showcase and AWS Partner Network (140,000+ partners)",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": " costs on eligible AWS services and products. Financial flexibility to innovate : Gaining access to AWS Activate Credits helps you lower infrastructure costs and stretch your runwa"
+        },
+        {
+          "url": "https://aws.amazon.com/startups",
+          "title": "AWS Startups",
+          "snippet": "Grow your startup with AWS Join AWS Activate, our flagship startup program. Get started by creating your personal account (AWS Builder ID) now. Join AWS Activate, our flagship star"
+        }
+      ]
+    },
+    {
+      "claim": "Technical support credits applicable to Developer or Business Support tiers",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "Apply for Activate Credits Fuel your startup's growth with AWS Activate Credits. Get started by creating an account. AWS helps startups turn bold ideas into reality. With AWS Activ"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "Learn Everything you need to know about AWS Activate Credits Everything you need to know about AWS Activate Credits How was this content? Let AWS Activate Credits offset cloud cost"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Founded within the last 10 years",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "ate Credits, startups must be pre-series B, have a company website or company profile, be founded in the last 10 years and have an AWS Account on Paid Tier Plan . Review the detail"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "ncludes: New to AWS Activate Credits Self-funded Have a fully functioning company website Founded in the past 10 years Activate Portfolio Package The Activate Portfolio Package off"
+        }
+      ]
+    },
+    {
+      "claim": "Pre-Series B funding stage",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "ts eligibility requirements To be eligible for AWS Activate Credits, startups must be pre-series B, have a company website or company profile, be founded in the last 10 years and h"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "tional ID Have not previously received AWS Activate Credits of equal or greater value Pre-Series B (most recent funding round must be within the last 12 months, if applicable) Have"
+        }
+      ]
+    },
+    {
+      "claim": "Portfolio tier requires Org ID from an approved Activate Provider (VC/Accelerator)",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "ther new to Activate Credits or requesting more credits than previously received Activate Portfolio Start here if you have an Org ID from an Activate Provider (e.g., VC or Investor"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "elf-funded Have a fully functioning company website Founded in the past 10 years Activate Portfolio Package The Activate Portfolio Package offers up to $100,000 in AWS Activate Cre"
+        }
+      ]
+    },
+    {
+      "claim": "Must have a fully functioning company website",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/credits",
+          "title": "AWS Startups",
+          "snippet": "tivate Credits eligibility requirements To be eligible for AWS Activate Credits, startups must be pre-series B, have a company website or company profile, be founded in the last 10"
+        },
+        {
+          "url": "https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits",
+          "title": "Everything you need to know about AWS Activate Credits | AWS Startups",
+          "snippet": "ed AWS Activate Credits of equal or greater value Pre-Series B (most recent funding round must be within the last 12 months, if applicable) Have a fully functioning company website"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 95,
+  "confidence_reasons": [
+    "program page verified",
+    "3 source(s)",
+    "benefits cited 5/5",
+    "eligibility cited 4/4"
+  ],
+  "credit_value_usd": 100000,
+  "category": "Cloud & Infrastructure"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "webflow-startups",
+  "name": "Webflow for Startups",
+  "provider": "Webflow for Startups",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Funding stage requirements apply.",
+    "Partner or accelerator affiliation may be required.",
+    "New-customer requirement may apply.",
+    "Geographic restrictions may apply."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://webflow.com/solutions/startups",
+  "sources": [
+    {
+      "url": "https://webflow.com/startups",
+      "title": "Web design for startups | Webflow",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    },
+    {
+      "url": "https://webflow.com/solutions/startups",
+      "title": "Web design for startups | Webflow",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://webflow.com/solutions/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Funding stage requirements apply.",
+      "citations": [
+        {
+          "url": "https://webflow.com/startups",
+          "title": "Web design for startups | Webflow",
+          "snippet": "Platform → Platform ← Back Build Design Edit content Interactions Collaboration Page building Manage CMS Hosting Localization Security Shared Libraries Optimize Analyze Optimize SE"
+        }
+      ]
+    },
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://webflow.com/startups",
+          "title": "Web design for startups | Webflow",
+          "snippet": "gency Resources → Resources ← Back Get started Templates Made in Webflow Hire a Certified Partner Developers Learn Webflow University Blog Webinars & ebooks The Webflow Way Discove"
+        }
+      ]
+    },
+    {
+      "claim": "New-customer requirement may apply.",
+      "citations": [
+        {
+          "url": "https://webflow.com/startups",
+          "title": "Web design for startups | Webflow",
+          "snippet": "rtner Developers Learn Webflow University Blog Webinars & ebooks The Webflow Way Discover Customer stories Our Community Partner with Webflow AEO Get help Support Join the Communit"
+        }
+      ]
+    },
+    {
+      "claim": "Geographic restrictions may apply.",
+      "citations": [
+        {
+          "url": "https://webflow.com/startups",
+          "title": "Web design for startups | Webflow",
+          "snippet": "Platform → Platform ← Back Build Design Edit content Interactions Collaboration Page building Manage CMS Hosting Localization Security Shared Libraries Optimize Analyze Optimize SE"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 70,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits unknown",
+    "eligibility cited 4/4"
+  ]
+}

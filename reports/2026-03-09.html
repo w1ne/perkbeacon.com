@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PerkBeacon Report - 2026-03-09</title>
+  <style>
+:root {
+  --bg: #f7f8f5;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #5b6472;
+  --line: #dbe0e6;
+  --accent: #0d5b42;
+  --accent-soft: #edf7f3;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 15% -10%, #e8f3ee, transparent), var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Sans", "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+.container {
+  width: min(1180px, 92vw);
+  margin: 2rem auto 3rem;
+}
+header h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  letter-spacing: -0.02em;
+}
+.subtitle { color: var(--muted); margin-top: .35rem; }
+.section { margin-top: 1.5rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.badge {
+  display: inline-block;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid #cfe6dc;
+  border-radius: 999px;
+  font-size: .74rem;
+  padding: .2rem .55rem;
+  margin-bottom: .5rem;
+}
+.card h3 { margin: 0 0 .4rem; font-size: 1.02rem; }
+.card p { margin: .2rem 0; color: var(--muted); font-size: .92rem; }
+a { color: #0a5bbb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.kpi {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: .8rem;
+}
+.kpi .card { text-align: center; }
+.kpi strong { display: block; font-size: 1.45rem; }
+.table-wrap { overflow: auto; }
+table { width: 100%; border-collapse: collapse; background: var(--card); }
+th, td { text-align: left; padding: .65rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: #f8fafc; font-size: .9rem; }
+th button.sort-btn {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  padding: 0;
+  cursor: pointer;
+}
+th button.sort-btn::after {
+  content: " \2195";
+  color: #8a95a4;
+  font-size: .82em;
+}
+th button.sort-btn[data-dir="asc"]::after { content: " \2191"; color: var(--accent); }
+th button.sort-btn[data-dir="desc"]::after { content: " \2193"; color: var(--accent); }
+small.muted { color: var(--muted); }
+.report {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.2rem;
+}
+.report h1, .report h2, .report h3 { line-height: 1.2; }
+.report code { background: #f2f4f7; padding: .12rem .3rem; border-radius: 4px; }
+.report pre { background: #f2f4f7; padding: .8rem; overflow: auto; border-radius: 8px; }
+.report img { max-width: 100%; height: auto; border-radius: 8px; margin: 1.5rem 0; display: block; }
+</style>
+</head>
+<body>
+  <main class="container">
+    <p><a href="/">PerkBeacon Home</a></p>
+    <article class="report"><h1>Daily Startup Perks Research - 2026-03-09</h1>
+<h2>Key Updates</h2>
+<ul>
+<li>Google Cloud for Startups introduced high-value tiers offering up to $350,000 in credits for AI-first startups.</li>
+<li>AWS Activate now allows credits to be redeemed for third-party foundation models via Amazon Bedrock, including Anthropic and Meta.</li>
+<li>Intercom for Startups added with a 90% first-year discount and free AI Agent resolutions.</li>
+<li>Cloudflare for Startups confirmed credit tiers reaching $250,000 for high-growth AI companies.</li>
+</ul>
+<h2>New Programs</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Changes Detected</h2>
+<ul>
+<li><strong>AWS Activate</strong> (Amazon Web Services)</li>
+<li>Benefits: Up to $100,000 in AWS Activate Credits for Portfolio startups, $1,000 in credits for self-funded Founders startups, Credits redeemable for third-party models (Anthropic, Meta, Mistral) on Amazon Bedrock ...</li>
+<li>Eligibility: Founded within the last 10 years, Pre-Series B funding stage, Portfolio tier requires Org ID from an approved Activate Provider (VC/Accelerator) ...</li>
+<li>Link: <a href="https://aws.amazon.com/startups">https://aws.amazon.com/startups</a></li>
+<li><strong>Google Cloud for Startups</strong> (Google)</li>
+<li>Benefits: Up to $350,000 in Cloud credits for AI-first startups over two years, Up to $200,000 in Cloud credits for Seed to Series A startups, $2,000 in credits for MVP development ...</li>
+<li>Eligibility: Seed to Series A startups for high-tier credits, Must be new to Google Cloud for high-tier benefits, AI-first startups get preferential credit caps</li>
+<li>Link: <a href="https://cloud.google.com/startup">https://cloud.google.com/startup</a></li>
+<li><strong>Render for Startups</strong> (Render)</li>
+<li>Benefits: AI Tier: $100,000 in startup credits plus 1:1 onboarding, Scale Tier: $25,000 (funding &gt;$1M) or $10,000 (funding &lt;$1M) in credits, Build Tier: $5,000 in credits via partner referral ...</li>
+<li>Eligibility: Founded less than 10 years ago, AI tier requires $2.5M+ funding from top-tier VCs, Prototype tier requires min $25K seed funding ...</li>
+<li>Link: <a href="https://render.com/startups">https://render.com/startups</a></li>
+<li><strong>HubSpot for Startups</strong> (HubSpot)</li>
+<li>Benefits: 90% off Year 1 (for Seed/Series A with partner affiliation or verified funding), 30% off Year 1 (for startups in entrepreneurial organizations), 50% off Year 2 and 25% off Year 3 ...</li>
+<li>Eligibility: Pre-seed, Seed, or Series A funding status, Affiliated with approved partners (VCs, accelerators, etc.), Funding verified via Pitchbook or Crunchbase</li>
+<li>Link: <a href="https://www.hubspot.com/startups">https://www.hubspot.com/startups</a></li>
+<li><strong>Cloudflare for Startups</strong> (Cloudflare)</li>
+<li>Benefits: Up to $250,000 in Cloudflare credits for Tier 1 VC network or AI startups, $5,000 to $100,000 credit tiers based on funding and partner affiliation, Zero egress fee storage (R2) and Workers AI ML model hosting ...</li>
+<li>Eligibility: Founded within the last 5 years, Funded up to Series B, Software product or service with active website ...</li>
+<li>Link: <a href="https://www.cloudflare.com/forstartups/">https://www.cloudflare.com/forstartups/</a></li>
+<li><strong>Atlassian for Startups</strong> (Atlassian)</li>
+<li>Benefits: 12 months free for up to 50 users on Jira Premium and Confluence Premium, Loom Business + AI free for up to 50 seats, Jira Product Discovery Premium (up to 10 creators) ...</li>
+<li>Eligibility: Not an existing Atlassian paid customer, VC funded or associated with a partner accelerator/incubator, Raised less than $10 million in external funding</li>
+<li>Link: <a href="https://www.atlassian.com/software/startups">https://www.atlassian.com/software/startups</a></li>
+<li><strong>Notion for Startups</strong> (Notion)</li>
+<li>Benefits: Up to 6 months free on Business plan with Notion AI (partnered), 3 months free on Business plan with Notion AI (non-partnered), Equivalent value up to $12,000 for up to 100 employees ...</li>
+<li>Eligibility: Non-paying Notion customer, Under 100 employees, Company domain email required (no generic providers) ...</li>
+<li>Link: <a href="https://www.notion.com/startups">https://www.notion.com/startups</a></li>
+<li><strong>GitHub for Startups</strong> (GitHub)</li>
+<li>Benefits: Up to 20 seats of GitHub Enterprise free for one year, Up to 20 seats of GitHub Advanced Security 50% off for one year, Access to exclusive startup network events and resources ...</li>
+<li>Eligibility: Received outside equity funding (Series B or earlier), New to GitHub Enterprise or Advanced Security, Must use a subscription-based model (no pay-as-you-go)</li>
+<li>Link: <a href="https://github.com/enterprise/startups">https://github.com/enterprise/startups</a></li>
+<li><strong>Brex Partner Perks</strong> (Brex)</li>
+<li>Benefits: $5,000 in AWS credits (new customers), $2,500 in OpenAI credits for 1 year, $500 in Anthropic API credits ...</li>
+<li>Eligibility: Must be a Brex cardholder, Some perks limited to new customers of the partner service</li>
+<li>Link: <a href="https://www.brex.com/support/brex-partner-perks">https://www.brex.com/support/brex-partner-perks</a></li>
+<li><strong>MongoDB for Startups</strong> (MongoDB)</li>
+<li>Benefits: Up to $5,000 in MongoDB Atlas credits (higher for AI companies), Access to Voyage AI tokens for high-performance retrieval, Dedicated expert technical session and 24/7 Developer Support (30 days free) ...</li>
+<li>Eligibility: Less than 7 years old, Series A or earlier funding, New participants only ...</li>
+<li>Link: <a href="https://www.mongodb.com/solutions/startups">https://www.mongodb.com/solutions/startups</a></li>
+<li><strong>Stripe Atlas</strong> (Stripe)</li>
+<li>Benefits: $2,500 in Stripe product credits for use in the first year, Over $50,000 in partner discounts (AWS, Mercury, etc.), Delaware C Corp or LLC incorporation and EIN filing ...</li>
+<li>Eligibility: One-time setup fee of $500, Available to founders in over 140 countries</li>
+<li>Link: <a href="https://stripe.com/en-fi/atlas">https://stripe.com/en-fi/atlas</a></li>
+<li><strong>DigitalOcean Startups</strong> (DigitalOcean)</li>
+<li>Benefits: DigitalOcean credits for cloud infrastructure (amount varies), $1.90/GPU/hour on-demand GPU Droplets for 12 months, Free Standard-tier support for 15 months ...</li>
+<li>Eligibility: Early-stage startups, Application required</li>
+<li>Link: <a href="https://www.digitalocean.com/startups">https://www.digitalocean.com/startups</a></li>
+</ul>
+<h2>Removed/Archived Programs</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Notable Opportunities</h2>
+<ul>
+<li>AI startups can now leverage combined infrastructure and model credits from Google ($350k), Cloudflare ($250k), and Render ($100k).</li>
+<li>New incorporation bundles via Stripe Atlas include $2,500 in direct product credits.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://render.com/startups">https://render.com/startups</a></li>
+<li><a href="https://segment.com/startups/">https://segment.com/startups/</a></li>
+<li><a href="https://www.twilio.com/en-us/solutions/startups">https://www.twilio.com/en-us/solutions/startups</a></li>
+<li><a href="https://www.nvidia.com/en-us/startups/">https://www.nvidia.com/en-us/startups/</a></li>
+<li><a href="https://www.hubspot.com/startups">https://www.hubspot.com/startups</a></li>
+<li><a href="https://portal.startups.microsoft.com/">https://portal.startups.microsoft.com/</a></li>
+<li><a href="https://www.notion.com/startups">https://www.notion.com/startups</a></li>
+<li><a href="https://www.airtable.com/startups">https://www.airtable.com/startups</a></li>
+<li><a href="https://aws.amazon.com/startups/credits">https://aws.amazon.com/startups/credits</a></li>
+<li><a href="https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits">https://aws.amazon.com/startups/learn/everything-you-need-to-know-about-aws-activate-credits</a></li>
+<li><a href="https://aws.amazon.com/startups">https://aws.amazon.com/startups</a></li>
+<li><a href="https://sentry.io/for/startups/">https://sentry.io/for/startups/</a></li>
+<li><a href="https://www.atlassian.com/software/startups">https://www.atlassian.com/software/startups</a></li>
+<li><a href="https://claude.com/programs/startups">https://claude.com/programs/startups</a></li>
+<li><a href="https://mercury.com/perks">https://mercury.com/perks</a></li>
+<li><a href="https://www.digitalocean.com/startups">https://www.digitalocean.com/startups</a></li>
+<li><a href="https://www.mongodb.com/solutions/startups">https://www.mongodb.com/solutions/startups</a></li>
+<li><a href="https://cloud.google.com/mongodb/startups">https://cloud.google.com/mongodb/startups</a></li>
+<li><a href="https://cloud.google.com/startup">https://cloud.google.com/startup</a></li>
+<li><a href="https://webflow.com/startups">https://webflow.com/startups</a></li>
+<li><a href="https://webflow.com/solutions/startups">https://webflow.com/solutions/startups</a></li>
+<li><a href="https://www.cloudflare.com/forstartups/">https://www.cloudflare.com/forstartups/</a></li>
+<li><a href="https://linear.app/startups">https://linear.app/startups</a></li>
+<li><a href="https://vercel.com/startups">https://vercel.com/startups</a></li>
+<li><a href="https://www.zendesk.com/campaign/startups/">https://www.zendesk.com/campaign/startups/</a></li>
+<li><a href="https://www.zendesk.com/business/startups/">https://www.zendesk.com/business/startups/</a></li>
+<li><a href="https://ramp.com/startups">https://ramp.com/startups</a></li>
+<li><a href="https://miro.com/startups/">https://miro.com/startups/</a></li>
+<li><a href="https://stripe.com/en-fi/atlas">https://stripe.com/en-fi/atlas</a></li>
+<li><a href="https://github.com/enterprise/startups">https://github.com/enterprise/startups</a></li>
+<li><a href="https://huggingface.co/startups">https://huggingface.co/startups</a></li>
+<li><a href="https://www.brex.com/support/brex-partner-perks">https://www.brex.com/support/brex-partner-perks</a></li>
+<li><a href="https://aws.amazon.com/startups/offers/supabase">https://aws.amazon.com/startups/offers/supabase</a></li>
+<li><a href="https://aws.amazon.com/startups/learn/weights-and-biases-is-helping-developers-productionize-ai-solutions-and-realize-ai-innovation">https://aws.amazon.com/startups/learn/weights-and-biases-is-helping-developers-productionize-ai-solutions-and-realize-ai-innovation</a></li>
+</ul></article>
+  </main>
+</body>
+</html>

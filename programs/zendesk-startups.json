@@ -1,0 +1,78 @@
+{
+  "id": "zendesk-startups",
+  "name": "Zendesk for Startups",
+  "provider": "Zendesk for Startups",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required.",
+    "Geographic restrictions may apply."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://www.zendesk.com/business/startups/",
+  "sources": [
+    {
+      "url": "https://www.zendesk.com/campaign/startups/",
+      "title": "Zendesk: Transform Customer & Employee Service with AI Agents",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    },
+    {
+      "url": "https://www.zendesk.com/business/startups/",
+      "title": "Zendesk for startups: AI customer service solution that scales",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "auto-repaired URL: https://www.zendesk.com/startups"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.zendesk.com/business/startups/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://www.zendesk.com/campaign/startups/",
+          "title": "Zendesk: Transform Customer & Employee Service with AI Agents",
+          "snippet": "inars Customer stories Blog CX Trends What’s New with Zendesk Newsroom API and developers Partners Professional services Training and certifications Zendesk Help center Community A"
+        }
+      ]
+    },
+    {
+      "claim": "Geographic restrictions may apply.",
+      "citations": [
+        {
+          "url": "https://www.zendesk.com/campaign/startups/",
+          "title": "Zendesk: Transform Customer & Employee Service with AI Agents",
+          "snippet": "Build the future of AI-powered service at Zendesk Relate, where leaders meet to connect, learn, and discover new resolutions. AI agents Copilot Zendesk AI AI research Trust and sec"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 70,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits unknown",
+    "eligibility cited 2/2"
+  ]
+}

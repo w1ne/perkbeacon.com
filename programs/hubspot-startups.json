@@ -1,0 +1,206 @@
+{
+  "id": "hubspot-startups",
+  "name": "HubSpot for Startups",
+  "provider": "HubSpot",
+  "status": "changed",
+  "summary": "CRM and marketing platform offering tiered discounts for early-stage and funded startups.",
+  "benefits": [
+    "90% off Year 1 (for Seed/Series A with partner affiliation or verified funding)",
+    "30% off Year 1 (for startups in entrepreneurial organizations)",
+    "50% off Year 2 and 25% off Year 3",
+    "Access to AI-powered Breeze agents for marketing and sales"
+  ],
+  "eligibility": [
+    "Pre-seed, Seed, or Series A funding status",
+    "Affiliated with approved partners (VCs, accelerators, etc.)",
+    "Funding verified via Pitchbook or Crunchbase"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.hubspot.com/startups",
+  "sources": [
+    {
+      "url": "https://www.hubspot.com/startups",
+      "title": "HubSpot for Startups",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.hubspot.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "90% off Year 1 (for Seed/Series A with partner affiliation or verified funding)",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "uilding Their Growth Engine with HubSpot Who Qualifies? 💰💰💰 Startups eligible for 90% off year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Af"
+        }
+      ]
+    },
+    {
+      "claim": "30% off Year 1 (for startups in entrepreneurial organizations)",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "uilding Their Growth Engine with HubSpot Who Qualifies? 💰💰💰 Startups eligible for 90% off year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Af"
+        }
+      ]
+    },
+    {
+      "claim": "50% off Year 2 and 25% off Year 3",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "uilding Their Growth Engine with HubSpot Who Qualifies? 💰💰💰 Startups eligible for 90% off year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Af"
+        }
+      ]
+    },
+    {
+      "claim": "Access to AI-powered Breeze agents for marketing and sales",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "ces to Scale Smarter: Insights from the Startup Ecosystem Skip the startup platitudes and access practical tools that solve your actual challenges—not theoretical problems. From pi"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Pre-seed, Seed, or Series A funding status",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "th HubSpot Who Qualifies? 💰💰💰 Startups eligible for 90% off year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Affiliated with an approved HubS"
+        }
+      ]
+    },
+    {
+      "claim": "Affiliated with approved partners (VCs, accelerators, etc.)",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "f year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Affiliated with an approved HubSpot for Startups partner or have raised verified venture f"
+        }
+      ]
+    },
+    {
+      "claim": "Funding verified via Pitchbook or Crunchbase",
+      "citations": [
+        {
+          "url": "https://www.hubspot.com/startups",
+          "title": "HubSpot for Startups",
+          "snippet": "s? 💰💰💰 Startups eligible for 90% off year one Available Raised Pre-seed, Seed or Series A funding, but not Series B or later Affiliated with an approved HubSpot for Startups partne"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 3/3"
+  ],
+  "credit_value_usd": 0,
+  "category": "SaaS & Productivity"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "brex-partner-perks",
+  "name": "Brex Partner Perks",
+  "provider": "Brex",
+  "status": "changed",
+  "summary": "Financial platform providing a 'Day Zero Stack' of discounts for top-tier software and AI services.",
+  "benefits": [
+    "$5,000 in AWS credits (new customers)",
+    "$2,500 in OpenAI credits for 1 year",
+    "$500 in Anthropic API credits",
+    "6 months free for Notion and Linear Business plans",
+    "Discounts on Carta, Deel, and Gusto"
+  ],
+  "eligibility": [
+    "Must be a Brex cardholder",
+    "Some perks limited to new customers of the partner service"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.brex.com/support/brex-partner-perks",
+  "sources": [
+    {
+      "url": "https://www.brex.com/support/brex-partner-perks",
+      "title": "Brex Partner Perks Overview",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.brex.com/support/brex-partner-perks",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "$5,000 in AWS credits (new customers)",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " partners are: Amazon Web Services: All new Brex customers are eligible for $5,000 in AWS credits depending on Activate eligibility. Anthropic: Gain access to $500 in API credits a"
+        }
+      ]
+    },
+    {
+      "claim": "$2,500 in OpenAI credits for 1 year",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " for 6 months of free Notion towards a Business plan, including full access to Notion AI. OpenAI: Receive $2,500 in OpenAI credits for 1 year. Pulley: As a Brex customer, receive 2"
+        }
+      ]
+    },
+    {
+      "claim": "$500 in Anthropic API credits",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Brex customers are eligible for $5,000 in AWS credits depending on Activate eligibility. Anthropic: Gain access to $500 in API credits and priority support routing. Attio: Redeem "
+        }
+      ]
+    },
+    {
+      "claim": "6 months free for Notion and Linear Business plans",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " 18% off bundled packages. Drata: Get 25% off your first Drata contract. Elevenlabs.io: 3 months free to build, test and launch with ElevenLabs voices and sounds with 11 M characte"
+        }
+      ]
+    },
+    {
+      "claim": "Discounts on Carta, Deel, and Gusto",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "mins and any other users with the specific product capability can redeem partner perks or discounts by following these steps: Step 1: In your dashboard, go to Rewards > Perks and d"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Must be a Brex cardholder",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": " Products Solutions Resources Customers Pricing Sign in See a demo Get started Get started Help Center Browse by topic Rewards Brex partner perks Brex partner perks Overview Brex c"
+        }
+      ]
+    },
+    {
+      "claim": "Some perks limited to new customers of the partner service",
+      "citations": [
+        {
+          "url": "https://www.brex.com/support/brex-partner-perks",
+          "title": "Brex partner perks",
+          "snippet": "ave to offer on the Rewards page of your dashboard by following the steps above. Here are some of the many partner rewards we offer: AngelList: Get 20% off your first year of Angel"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 5/5",
+    "eligibility cited 2/2"
+  ],
+  "credit_value_usd": 5000,
+  "category": "Finance & Banking"
+}

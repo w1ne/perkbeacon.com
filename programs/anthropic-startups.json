@@ -1,0 +1,119 @@
+{
+  "id": "anthropic-startups",
+  "name": "Anthropic Startup Programs",
+  "provider": "Anthropic",
+  "status": "changed",
+  "summary": "Incentive program for startups building with Claude AI models.",
+  "benefits": [
+    "Free API credits for experimentation and building",
+    "Priority rate limits (highest public tier available)",
+    "Invitations to exclusive founder workshops and events",
+    "Prompt caching for cost and intelligence optimization"
+  ],
+  "eligibility": [
+    "Must be an early-stage startup working with Anthropic VC partners",
+    "Requires unique application link from the partner VC"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://claude.com/programs/startups",
+  "sources": [
+    {
+      "url": "https://claude.com/programs/startups",
+      "title": "Create with Claude today | Anthropic",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://claude.com/programs/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Free API credits for experimentation and building",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Priority rate limits (highest public tier available)",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Invitations to exclusive founder workshops and events",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Prompt caching for cost and intelligence optimization",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Must be an early-stage startup working with Anthropic VC partners",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Requires unique application link from the partner VC",
+      "citations": [
+        {
+          "url": "https://claude.com/programs/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 2/2"
+  ],
+  "credit_value_usd": 0,
+  "category": "AI & ML"
+}

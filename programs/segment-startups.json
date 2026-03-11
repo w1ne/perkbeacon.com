@@ -1,0 +1,63 @@
+{
+  "id": "segment-startups",
+  "name": "Segment Startup Program",
+  "provider": "Segment Startup Program",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://www.twilio.com/en-us/solutions/startups",
+  "sources": [
+    {
+      "url": "https://segment.com/startups/",
+      "title": "Free resources for startups | Twilio",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    },
+    {
+      "url": "https://www.twilio.com/en-us/solutions/startups",
+      "title": "Free resources for startups | Twilio",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.twilio.com/en-us/solutions/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://segment.com/startups/",
+          "title": "Free resources for startups | Twilio",
+          "snippet": "n icon of a checkmark French German Japanese Portuguese Spanish Help Center Support Plans Partner Solutions Log in to Messaging, Voice, Verify, Video, and more Twilio Messaging, Vo"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 70,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits unknown",
+    "eligibility cited 1/1"
+  ]
+}

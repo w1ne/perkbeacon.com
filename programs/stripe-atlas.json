@@ -1,0 +1,147 @@
+{
+  "id": "stripe-atlas",
+  "name": "Stripe Atlas",
+  "provider": "Stripe",
+  "status": "changed",
+  "summary": "Automated platform for Delaware incorporation, tax ID acquisition, and equity issuance.",
+  "benefits": [
+    "$2,500 in Stripe product credits for use in the first year",
+    "Over $50,000 in partner discounts (AWS, Mercury, etc.)",
+    "Delaware C Corp or LLC incorporation and EIN filing",
+    "Automatic 83(b) tax election filing and share purchase templates"
+  ],
+  "eligibility": [
+    "One-time setup fee of $500",
+    "Available to founders in over 140 countries"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://stripe.com/en-fi/atlas",
+  "sources": [
+    {
+      "url": "https://stripe.com/en-fi/atlas",
+      "title": "Stripe Atlas Incorporation",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://stripe.com/en-fi/atlas",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "$2,500 in Stripe product credits for use in the first year",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Over $50,000 in partner discounts (AWS, Mercury, etc.)",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Delaware C Corp or LLC incorporation and EIN filing",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Automatic 83(b) tax election filing and share purchase templates",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "One-time setup fee of $500",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Available to founders in over 140 countries",
+      "citations": [
+        {
+          "url": "https://stripe.com/en-fi/atlas",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 2/2"
+  ],
+  "credit_value_usd": 2500,
+  "category": "Legal & Incorporation"
+}

@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PerkBeacon | Startup Perks Intelligence</title>
+  <meta name="description" content="Discover 24 verified startup perks and credits across cloud, AI, devtools, finance, and SaaS — updated daily." />
+  <style>
+:root {
+  --bg: #f7f8f5;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #5b6472;
+  --line: #dbe0e6;
+  --accent: #0d5b42;
+  --accent-soft: #edf7f3;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 15% -10%, #e8f3ee, transparent), var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Sans", "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+.container {
+  width: min(1180px, 92vw);
+  margin: 2rem auto 3rem;
+}
+header h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  letter-spacing: -0.02em;
+}
+.subtitle { color: var(--muted); margin-top: .35rem; }
+.section { margin-top: 1.5rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.badge {
+  display: inline-block;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid #cfe6dc;
+  border-radius: 999px;
+  font-size: .74rem;
+  padding: .2rem .55rem;
+  margin-bottom: .5rem;
+}
+.card h3 { margin: 0 0 .4rem; font-size: 1.02rem; }
+.card p { margin: .2rem 0; color: var(--muted); font-size: .92rem; }
+a { color: #0a5bbb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.kpi {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: .8rem;
+}
+.kpi .card { text-align: center; }
+.kpi strong { display: block; font-size: 1.45rem; }
+.table-wrap { overflow: auto; }
+table { width: 100%; border-collapse: collapse; background: var(--card); }
+th, td { text-align: left; padding: .65rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: #f8fafc; font-size: .9rem; }
+th button.sort-btn {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  padding: 0;
+  cursor: pointer;
+}
+th button.sort-btn::after {
+  content: " \2195";
+  color: #8a95a4;
+  font-size: .82em;
+}
+th button.sort-btn[data-dir="asc"]::after { content: " \2191"; color: var(--accent); }
+th button.sort-btn[data-dir="desc"]::after { content: " \2193"; color: var(--accent); }
+small.muted { color: var(--muted); }
+.report {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.2rem;
+}
+.report h1, .report h2, .report h3 { line-height: 1.2; }
+.report code { background: #f2f4f7; padding: .12rem .3rem; border-radius: 4px; }
+.report pre { background: #f2f4f7; padding: .8rem; overflow: auto; border-radius: 8px; }
+.report img { max-width: 100%; height: auto; border-radius: 8px; margin: 1.5rem 0; display: block; }
+</style>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>PerkBeacon</h1>
+      <p class="subtitle">Verified startup perks across cloud, AI, devtools &amp; more — updated daily.</p>
+      <p><strong>Latest report:</strong> <a href="/reports/2026-03-09.html">2026-03-09</a></p>
+      <p><a href="/news/">🚀 Global Seed Radar</a> — Weekly company profiles, early signals, real insight</p>
+    </header>
+
+    <section class="section kpi">
+      <div class="card"><strong>24</strong><small class="muted">Tracked Programs</small></div>
+      <div class="card"><strong>7</strong><small class="muted">Categories</small></div>
+      <div class="card"><strong>Up to $824k in credits</strong><small class="muted">Total Credits Tracked</small></div>
+    </section>
+
+    <section class="section">
+      <h2>Perks by Category</h2>
+      <h3>AI &amp; ML</h3><div class="grid">
+<div class="card">
+  <span class="badge">AI &amp; ML</span>
+  <h3>Anthropic Startup Programs</h3>
+  <p><strong>Provider:</strong> Anthropic</p>
+  <p><strong>Eligibility:</strong> Must be an early-stage startup working with Anthropic VC partners, Requires unique application link from the partner VC</p>
+  <p><strong>Benefits:</strong> Free API credits for experimentation and building, Priority rate limits (highest public tier available)</p>
+  
+  <p><a href="https://claude.com/programs/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">AI &amp; ML</span>
+  <h3>NVIDIA Inception</h3>
+  <p><strong>Provider:</strong> NVIDIA Inception</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://www.nvidia.com/en-us/startups/" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>Cloud &amp; Infrastructure</h3><div class="grid">
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>AWS Activate</h3>
+  <p><strong>Provider:</strong> Amazon Web Services</p>
+  <p><strong>Eligibility:</strong> Founded within the last 10 years, Pre-Series B funding stage</p>
+  <p><strong>Benefits:</strong> Up to $100,000 in AWS Activate Credits for Portfolio startups, $1,000 in credits for self-funded Founders startups</p>
+  <p><strong>Up to $100k in credits</strong></p>
+  <p><a href="https://aws.amazon.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>Cloudflare for Startups</h3>
+  <p><strong>Provider:</strong> Cloudflare</p>
+  <p><strong>Eligibility:</strong> Founded within the last 5 years, Funded up to Series B</p>
+  <p><strong>Benefits:</strong> Up to $250,000 in Cloudflare credits for Tier 1 VC network or AI startups, $5,000 to $100,000 credit tiers based on funding and partner affiliation</p>
+  <p><strong>Up to $250k in credits</strong></p>
+  <p><a href="https://www.cloudflare.com/forstartups/" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>DigitalOcean Startups</h3>
+  <p><strong>Provider:</strong> DigitalOcean</p>
+  <p><strong>Eligibility:</strong> Early-stage startups, Application required</p>
+  <p><strong>Benefits:</strong> DigitalOcean credits for cloud infrastructure (amount varies), $1.90/GPU/hour on-demand GPU Droplets for 12 months</p>
+  <p><strong>Up to $1 in credits</strong></p>
+  <p><a href="https://www.digitalocean.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>Google Cloud for Startups</h3>
+  <p><strong>Provider:</strong> Google</p>
+  <p><strong>Eligibility:</strong> Seed to Series A startups for high-tier credits, Must be new to Google Cloud for high-tier benefits</p>
+  <p><strong>Benefits:</strong> Up to $350,000 in Cloud credits for AI-first startups over two years, Up to $200,000 in Cloud credits for Seed to Series A startups</p>
+  <p><strong>Up to $350k in credits</strong></p>
+  <p><a href="https://cloud.google.com/startup" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>MongoDB for Startups</h3>
+  <p><strong>Provider:</strong> MongoDB</p>
+  <p><strong>Eligibility:</strong> Less than 7 years old, Series A or earlier funding</p>
+  <p><strong>Benefits:</strong> Up to $5,000 in MongoDB Atlas credits (higher for AI companies), Access to Voyage AI tokens for high-performance retrieval</p>
+  <p><strong>Up to $5k in credits</strong></p>
+  <p><a href="https://www.mongodb.com/solutions/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>Render for Startups</h3>
+  <p><strong>Provider:</strong> Render</p>
+  <p><strong>Eligibility:</strong> Founded less than 10 years ago, AI tier requires $2.5M+ funding from top-tier VCs</p>
+  <p><strong>Benefits:</strong> AI Tier: $100,000 in startup credits plus 1:1 onboarding, Scale Tier: $25,000 (funding &gt;$1M) or $10,000 (funding &lt;$1M) in credits</p>
+  <p><strong>Up to $100k in credits</strong></p>
+  <p><a href="https://render.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>Supabase Startup Offers</h3>
+  <p><strong>Provider:</strong> Supabase</p>
+  <p><strong>Eligibility:</strong> Requires AWS Activate membership to redeem via the AWS marketplace</p>
+  <p><strong>Benefits:</strong> $300 in Supabase credits for free over 12 months</p>
+  <p><strong>Up to $300 in credits</strong></p>
+  <p><a href="https://aws.amazon.com/startups/offers/supabase" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Cloud &amp; Infrastructure</span>
+  <h3>Vercel for Startups</h3>
+  <p><strong>Provider:</strong> Vercel for Startups</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required., Geographic restrictions may apply.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://vercel.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>Developer Tools</h3><div class="grid">
+<div class="card">
+  <span class="badge">Developer Tools</span>
+  <h3>GitHub for Startups</h3>
+  <p><strong>Provider:</strong> GitHub</p>
+  <p><strong>Eligibility:</strong> Received outside equity funding (Series B or earlier), New to GitHub Enterprise or Advanced Security</p>
+  <p><strong>Benefits:</strong> Up to 20 seats of GitHub Enterprise free for one year, Up to 20 seats of GitHub Advanced Security 50% off for one year</p>
+  
+  <p><a href="https://github.com/enterprise/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Developer Tools</span>
+  <h3>Linear for Startups</h3>
+  <p><strong>Provider:</strong> Linear</p>
+  <p><strong>Eligibility:</strong> Affiliated with an official Linear partner, Fewer than 50 employees</p>
+  <p><strong>Benefits:</strong> Up to 6 months free on Basic or Business plans, Access to Cycles, roadmaps, and project planning features</p>
+  
+  <p><a href="https://linear.app/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Developer Tools</span>
+  <h3>Segment Startup Program</h3>
+  <p><strong>Provider:</strong> Segment Startup Program</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://www.twilio.com/en-us/solutions/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>Finance &amp; Banking</h3><div class="grid">
+<div class="card">
+  <span class="badge">Finance &amp; Banking</span>
+  <h3>Brex Partner Perks</h3>
+  <p><strong>Provider:</strong> Brex</p>
+  <p><strong>Eligibility:</strong> Must be a Brex cardholder, Some perks limited to new customers of the partner service</p>
+  <p><strong>Benefits:</strong> $5,000 in AWS credits (new customers), $2,500 in OpenAI credits for 1 year</p>
+  <p><strong>Up to $5k in credits</strong></p>
+  <p><a href="https://www.brex.com/support/brex-partner-perks" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Finance &amp; Banking</span>
+  <h3>Mercury Perks</h3>
+  <p><strong>Provider:</strong> Mercury</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required.</p>
+  <p><strong>Benefits:</strong> Deals on the top software picks for growing businesses</p>
+  
+  <p><a href="https://mercury.com/perks" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">Finance &amp; Banking</span>
+  <h3>Ramp for Startups</h3>
+  <p><strong>Provider:</strong> Ramp for Startups</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required., Requires card/account membership.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://ramp.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>Legal &amp; Incorporation</h3><div class="grid">
+<div class="card">
+  <span class="badge">Legal &amp; Incorporation</span>
+  <h3>Stripe Atlas</h3>
+  <p><strong>Provider:</strong> Stripe</p>
+  <p><strong>Eligibility:</strong> One-time setup fee of $500, Available to founders in over 140 countries</p>
+  <p><strong>Benefits:</strong> $2,500 in Stripe product credits for use in the first year, Over $50,000 in partner discounts (AWS, Mercury, etc.)</p>
+  <p><strong>Up to $2k in credits</strong></p>
+  <p><a href="https://stripe.com/en-fi/atlas" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>Other</h3><div class="grid">
+<div class="card">
+  <span class="badge">Other</span>
+  <h3>Weights &amp; Biases for Startups</h3>
+  <p><strong>Provider:</strong> Weights &amp; Biases for Startups</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required., Geographic restrictions may apply.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://aws.amazon.com/startups/learn/weights-and-biases-is-helping-developers-productionize-ai-solutions-and-realize-ai-innovation" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+<h3>SaaS &amp; Productivity</h3><div class="grid">
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>Atlassian for Startups</h3>
+  <p><strong>Provider:</strong> Atlassian</p>
+  <p><strong>Eligibility:</strong> Not an existing Atlassian paid customer, VC funded or associated with a partner accelerator/incubator</p>
+  <p><strong>Benefits:</strong> 12 months free for up to 50 users on Jira Premium and Confluence Premium, Loom Business + AI free for up to 50 seats</p>
+  
+  <p><a href="https://www.atlassian.com/software/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>HubSpot for Startups</h3>
+  <p><strong>Provider:</strong> HubSpot</p>
+  <p><strong>Eligibility:</strong> Pre-seed, Seed, or Series A funding status, Affiliated with approved partners (VCs, accelerators, etc.)</p>
+  <p><strong>Benefits:</strong> 90% off Year 1 (for Seed/Series A with partner affiliation or verified funding), 30% off Year 1 (for startups in entrepreneurial organizations)</p>
+  
+  <p><a href="https://www.hubspot.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>Miro for Startups</h3>
+  <p><strong>Provider:</strong> Miro</p>
+  <p><strong>Eligibility:</strong> Startups from early-stage to scaling, Affiliation with partner VCs/accelerators is common</p>
+  <p><strong>Benefits:</strong> Free Miro credits for startups, Up to 25% discount as the company scales</p>
+  
+  <p><a href="https://miro.com/startups/" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>Notion for Startups</h3>
+  <p><strong>Provider:</strong> Notion</p>
+  <p><strong>Eligibility:</strong> Non-paying Notion customer, Under 100 employees</p>
+  <p><strong>Benefits:</strong> Up to 6 months free on Business plan with Notion AI (partnered), 3 months free on Business plan with Notion AI (non-partnered)</p>
+  <p><strong>Up to $12k in credits</strong></p>
+  <p><a href="https://www.notion.com/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>Webflow for Startups</h3>
+  <p><strong>Provider:</strong> Webflow for Startups</p>
+  <p><strong>Eligibility:</strong> Funding stage requirements apply., Partner or accelerator affiliation may be required.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://webflow.com/solutions/startups" target="_blank" rel="noopener">Official page</a></p>
+</div>
+
+
+<div class="card">
+  <span class="badge">SaaS &amp; Productivity</span>
+  <h3>Zendesk for Startups</h3>
+  <p><strong>Provider:</strong> Zendesk for Startups</p>
+  <p><strong>Eligibility:</strong> Partner or accelerator affiliation may be required., Geographic restrictions may apply.</p>
+  <p><strong>Benefits:</strong> unknown</p>
+  
+  <p><a href="https://www.zendesk.com/business/startups/" target="_blank" rel="noopener">Official page</a></p>
+</div>
+</div>
+    </section>
+
+    <section class="section">
+      <h2>All Programs</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th><button class="sort-btn" type="button" data-sort-col="0">Program</button></th>
+              <th><button class="sort-btn" type="button" data-sort-col="1">Category</button></th>
+              <th><button class="sort-btn" type="button" data-sort-col="2">Credits</button></th>
+              <th><button class="sort-btn" type="button" data-sort-col="3">Eligibility</button></th>
+              <th><button class="sort-btn" type="button" data-sort-col="4">Top Benefits</button></th>
+              <th><button class="sort-btn" type="button" data-sort-col="5">Source</button></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td data-sort-value="google cloud for startups">Google Cloud for Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000350000">Up to $350k in credits</td><td data-sort-value="seed to series a startups for high-tier credits, must be new to google cloud for high-tier benefits, ai-first startups get preferential credit caps">Seed to Series A startups for high-tier credits, Must be new to Google Cloud for high-tier benefits, AI-first startups get preferential credit caps</td><td data-sort-value="up to $350,000 in cloud credits for ai-first startups over two years, up to $200,000 in cloud credits for seed to series a startups">Up to $350,000 in Cloud credits for AI-first startups over two years, Up to $200,000 in Cloud credits for Seed to Series A startups</td><td data-sort-value="https://cloud.google.com/startup"><a href="https://cloud.google.com/startup" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="cloudflare for startups">Cloudflare for Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000250000">Up to $250k in credits</td><td data-sort-value="founded within the last 5 years, funded up to series b, software product or service with active website">Founded within the last 5 years, Funded up to Series B, Software product or service with active website</td><td data-sort-value="up to $250,000 in cloudflare credits for tier 1 vc network or ai startups, $5,000 to $100,000 credit tiers based on funding and partner affiliation">Up to $250,000 in Cloudflare credits for Tier 1 VC network or AI startups, $5,000 to $100,000 credit tiers based on funding and partner affiliation</td><td data-sort-value="https://www.cloudflare.com/forstartups/"><a href="https://www.cloudflare.com/forstartups/" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="aws activate">AWS Activate</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000100000">Up to $100k in credits</td><td data-sort-value="founded within the last 10 years, pre-series b funding stage, portfolio tier requires org id from an approved activate provider (vc/accelerator)">Founded within the last 10 years, Pre-Series B funding stage, Portfolio tier requires Org ID from an approved Activate Provider (VC/Accelerator)</td><td data-sort-value="up to $100,000 in aws activate credits for portfolio startups, $1,000 in credits for self-funded founders startups">Up to $100,000 in AWS Activate Credits for Portfolio startups, $1,000 in credits for self-funded Founders startups</td><td data-sort-value="https://aws.amazon.com/startups"><a href="https://aws.amazon.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="render for startups">Render for Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000100000">Up to $100k in credits</td><td data-sort-value="founded less than 10 years ago, ai tier requires $2.5m+ funding from top-tier vcs, prototype tier requires min $25k seed funding">Founded less than 10 years ago, AI tier requires $2.5M+ funding from top-tier VCs, Prototype tier requires min $25K seed funding</td><td data-sort-value="ai tier: $100,000 in startup credits plus 1:1 onboarding, scale tier: $25,000 (funding &gt;$1m) or $10,000 (funding &lt;$1m) in credits">AI Tier: $100,000 in startup credits plus 1:1 onboarding, Scale Tier: $25,000 (funding &gt;$1M) or $10,000 (funding &lt;$1M) in credits</td><td data-sort-value="https://render.com/startups"><a href="https://render.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="notion for startups">Notion for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000012000">Up to $12k in credits</td><td data-sort-value="non-paying notion customer, under 100 employees, company domain email required (no generic providers)">Non-paying Notion customer, Under 100 employees, Company domain email required (no generic providers)</td><td data-sort-value="up to 6 months free on business plan with notion ai (partnered), 3 months free on business plan with notion ai (non-partnered)">Up to 6 months free on Business plan with Notion AI (partnered), 3 months free on Business plan with Notion AI (non-partnered)</td><td data-sort-value="https://www.notion.com/startups"><a href="https://www.notion.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="brex partner perks">Brex Partner Perks</td><td data-sort-value="finance &amp; banking">Finance &amp; Banking</td><td data-sort-value="0000005000">Up to $5k in credits</td><td data-sort-value="must be a brex cardholder, some perks limited to new customers of the partner service">Must be a Brex cardholder, Some perks limited to new customers of the partner service</td><td data-sort-value="$5,000 in aws credits (new customers), $2,500 in openai credits for 1 year">$5,000 in AWS credits (new customers), $2,500 in OpenAI credits for 1 year</td><td data-sort-value="https://www.brex.com/support/brex-partner-perks"><a href="https://www.brex.com/support/brex-partner-perks" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="mongodb for startups">MongoDB for Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000005000">Up to $5k in credits</td><td data-sort-value="less than 7 years old, series a or earlier funding, new participants only">Less than 7 years old, Series A or earlier funding, New participants only</td><td data-sort-value="up to $5,000 in mongodb atlas credits (higher for ai companies), access to voyage ai tokens for high-performance retrieval">Up to $5,000 in MongoDB Atlas credits (higher for AI companies), Access to Voyage AI tokens for high-performance retrieval</td><td data-sort-value="https://www.mongodb.com/solutions/startups"><a href="https://www.mongodb.com/solutions/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="stripe atlas">Stripe Atlas</td><td data-sort-value="legal &amp; incorporation">Legal &amp; Incorporation</td><td data-sort-value="0000002500">Up to $2k in credits</td><td data-sort-value="one-time setup fee of $500, available to founders in over 140 countries">One-time setup fee of $500, Available to founders in over 140 countries</td><td data-sort-value="$2,500 in stripe product credits for use in the first year, over $50,000 in partner discounts (aws, mercury, etc.)">$2,500 in Stripe product credits for use in the first year, Over $50,000 in partner discounts (AWS, Mercury, etc.)</td><td data-sort-value="https://stripe.com/en-fi/atlas"><a href="https://stripe.com/en-fi/atlas" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="supabase startup offers">Supabase Startup Offers</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000000300">Up to $300 in credits</td><td data-sort-value="requires aws activate membership to redeem via the aws marketplace">Requires AWS Activate membership to redeem via the AWS marketplace</td><td data-sort-value="$300 in supabase credits for free over 12 months">$300 in Supabase credits for free over 12 months</td><td data-sort-value="https://aws.amazon.com/startups/offers/supabase"><a href="https://aws.amazon.com/startups/offers/supabase" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="digitalocean startups">DigitalOcean Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000000001">Up to $1 in credits</td><td data-sort-value="early-stage startups, application required">Early-stage startups, Application required</td><td data-sort-value="digitalocean credits for cloud infrastructure (amount varies), $1.90/gpu/hour on-demand gpu droplets for 12 months">DigitalOcean credits for cloud infrastructure (amount varies), $1.90/GPU/hour on-demand GPU Droplets for 12 months</td><td data-sort-value="https://www.digitalocean.com/startups"><a href="https://www.digitalocean.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="anthropic startup programs">Anthropic Startup Programs</td><td data-sort-value="ai &amp; ml">AI &amp; ML</td><td data-sort-value="0000000000">—</td><td data-sort-value="must be an early-stage startup working with anthropic vc partners, requires unique application link from the partner vc">Must be an early-stage startup working with Anthropic VC partners, Requires unique application link from the partner VC</td><td data-sort-value="free api credits for experimentation and building, priority rate limits (highest public tier available)">Free API credits for experimentation and building, Priority rate limits (highest public tier available)</td><td data-sort-value="https://claude.com/programs/startups"><a href="https://claude.com/programs/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="atlassian for startups">Atlassian for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000000000">—</td><td data-sort-value="not an existing atlassian paid customer, vc funded or associated with a partner accelerator/incubator, raised less than $10 million in external funding">Not an existing Atlassian paid customer, VC funded or associated with a partner accelerator/incubator, Raised less than $10 million in external funding</td><td data-sort-value="12 months free for up to 50 users on jira premium and confluence premium, loom business + ai free for up to 50 seats">12 months free for up to 50 users on Jira Premium and Confluence Premium, Loom Business + AI free for up to 50 seats</td><td data-sort-value="https://www.atlassian.com/software/startups"><a href="https://www.atlassian.com/software/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="github for startups">GitHub for Startups</td><td data-sort-value="developer tools">Developer Tools</td><td data-sort-value="0000000000">—</td><td data-sort-value="received outside equity funding (series b or earlier), new to github enterprise or advanced security, must use a subscription-based model (no pay-as-you-go)">Received outside equity funding (Series B or earlier), New to GitHub Enterprise or Advanced Security, Must use a subscription-based model (no pay-as-you-go)</td><td data-sort-value="up to 20 seats of github enterprise free for one year, up to 20 seats of github advanced security 50% off for one year">Up to 20 seats of GitHub Enterprise free for one year, Up to 20 seats of GitHub Advanced Security 50% off for one year</td><td data-sort-value="https://github.com/enterprise/startups"><a href="https://github.com/enterprise/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="hubspot for startups">HubSpot for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000000000">—</td><td data-sort-value="pre-seed, seed, or series a funding status, affiliated with approved partners (vcs, accelerators, etc.), funding verified via pitchbook or crunchbase">Pre-seed, Seed, or Series A funding status, Affiliated with approved partners (VCs, accelerators, etc.), Funding verified via Pitchbook or Crunchbase</td><td data-sort-value="90% off year 1 (for seed/series a with partner affiliation or verified funding), 30% off year 1 (for startups in entrepreneurial organizations)">90% off Year 1 (for Seed/Series A with partner affiliation or verified funding), 30% off Year 1 (for startups in entrepreneurial organizations)</td><td data-sort-value="https://www.hubspot.com/startups"><a href="https://www.hubspot.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="linear for startups">Linear for Startups</td><td data-sort-value="developer tools">Developer Tools</td><td data-sort-value="0000000000">—</td><td data-sort-value="affiliated with an official linear partner, fewer than 50 employees, non-paying linear user">Affiliated with an official Linear partner, Fewer than 50 employees, Non-paying Linear user</td><td data-sort-value="up to 6 months free on basic or business plans, access to cycles, roadmaps, and project planning features">Up to 6 months free on Basic or Business plans, Access to Cycles, roadmaps, and project planning features</td><td data-sort-value="https://linear.app/startups"><a href="https://linear.app/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="mercury perks">Mercury Perks</td><td data-sort-value="finance &amp; banking">Finance &amp; Banking</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required.">Partner or accelerator affiliation may be required.</td><td data-sort-value="deals on the top software picks for growing businesses">Deals on the top software picks for growing businesses</td><td data-sort-value="https://mercury.com/perks"><a href="https://mercury.com/perks" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="miro for startups">Miro for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000000000">—</td><td data-sort-value="startups from early-stage to scaling, affiliation with partner vcs/accelerators is common">Startups from early-stage to scaling, Affiliation with partner VCs/accelerators is common</td><td data-sort-value="free miro credits for startups, up to 25% discount as the company scales">Free Miro credits for startups, Up to 25% discount as the company scales</td><td data-sort-value="https://miro.com/startups/"><a href="https://miro.com/startups/" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="nvidia inception">NVIDIA Inception</td><td data-sort-value="ai &amp; ml">AI &amp; ML</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required.">Partner or accelerator affiliation may be required.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://www.nvidia.com/en-us/startups/"><a href="https://www.nvidia.com/en-us/startups/" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="ramp for startups">Ramp for Startups</td><td data-sort-value="finance &amp; banking">Finance &amp; Banking</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required., requires card/account membership.">Partner or accelerator affiliation may be required., Requires card/account membership.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://ramp.com/startups"><a href="https://ramp.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="segment startup program">Segment Startup Program</td><td data-sort-value="developer tools">Developer Tools</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required.">Partner or accelerator affiliation may be required.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://www.twilio.com/en-us/solutions/startups"><a href="https://www.twilio.com/en-us/solutions/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="vercel for startups">Vercel for Startups</td><td data-sort-value="cloud &amp; infrastructure">Cloud &amp; Infrastructure</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required., geographic restrictions may apply.">Partner or accelerator affiliation may be required., Geographic restrictions may apply.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://vercel.com/startups"><a href="https://vercel.com/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="weights &amp; biases for startups">Weights &amp; Biases for Startups</td><td data-sort-value="other">Other</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required., geographic restrictions may apply.">Partner or accelerator affiliation may be required., Geographic restrictions may apply.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://aws.amazon.com/startups/learn/weights-and-biases-is-helping-developers-productionize-ai-solutions-and-realize-ai-innovation"><a href="https://aws.amazon.com/startups/learn/weights-and-biases-is-helping-developers-productionize-ai-solutions-and-realize-ai-innovation" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="webflow for startups">Webflow for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000000000">—</td><td data-sort-value="funding stage requirements apply., partner or accelerator affiliation may be required., new-customer requirement may apply.">Funding stage requirements apply., Partner or accelerator affiliation may be required., New-customer requirement may apply.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://webflow.com/solutions/startups"><a href="https://webflow.com/solutions/startups" target="_blank" rel="noopener">link</a></td></tr><tr><td data-sort-value="zendesk for startups">Zendesk for Startups</td><td data-sort-value="saas &amp; productivity">SaaS &amp; Productivity</td><td data-sort-value="0000000000">—</td><td data-sort-value="partner or accelerator affiliation may be required., geographic restrictions may apply.">Partner or accelerator affiliation may be required., Geographic restrictions may apply.</td><td data-sort-value="unknown">unknown</td><td data-sort-value="https://www.zendesk.com/business/startups/"><a href="https://www.zendesk.com/business/startups/" target="_blank" rel="noopener">link</a></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section card">
+      <h2>Latest Updates</h2>
+      <p>The latest report summary is available directly here, and full details remain in report archives.</p>
+      <ul><li><a href="/reports/2026-03-09.html">2026-03-09</a> · <a href="/reports/2026-03-09.md">markdown</a></li>
+<li><a href="/reports/2026-03-08.html">2026-03-08</a> · <a href="/reports/2026-03-08.md">markdown</a></li>
+<li><a href="/reports/2026-03-06.html">2026-03-06</a> · <a href="/reports/2026-03-06.md">markdown</a></li></ul>
+    </section>
+
+    <section class="section card">
+      <h2>Data</h2>
+      <p><a href="/programs/_index.json">Program index JSON</a></p>
+      <p><small class="muted">Generated 2026-03-11T12:37:49.153316Z</small></p>
+    </section>
+  </main>
+  <script>
+    (function () {
+      const table = document.querySelector("table");
+      if (!table) return;
+      const tbody = table.querySelector("tbody");
+      const buttons = table.querySelectorAll(".sort-btn");
+      if (!tbody || !buttons.length) return;
+
+      let activeCol = -1;
+      let activeDir = "asc";
+
+      function cellSortValue(row, col) {
+        const cell = row.cells[col];
+        if (!cell) return "";
+        return (cell.dataset.sortValue || cell.textContent || "").trim().toLowerCase();
+      }
+
+      function sortBy(col, dir) {
+        const rows = Array.from(tbody.querySelectorAll("tr"));
+        rows.sort((a, b) => {
+          const va = cellSortValue(a, col);
+          const vb = cellSortValue(b, col);
+          if (va < vb) return dir === "asc" ? -1 : 1;
+          if (va > vb) return dir === "asc" ? 1 : -1;
+          return 0;
+        });
+        rows.forEach((row) => tbody.appendChild(row));
+      }
+
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const col = Number(btn.dataset.sortCol || 0);
+          const dir = activeCol === col && activeDir === "asc" ? "desc" : "asc";
+          activeCol = col;
+          activeDir = dir;
+          buttons.forEach((b) => b.removeAttribute("data-dir"));
+          btn.setAttribute("data-dir", dir);
+          sortBy(col, dir);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

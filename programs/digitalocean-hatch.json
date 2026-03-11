@@ -1,0 +1,143 @@
+{
+  "id": "digitalocean-hatch",
+  "name": "DigitalOcean Startups",
+  "provider": "DigitalOcean",
+  "status": "changed",
+  "summary": "Infrastructure program providing credits and specialized pricing for GPU droplets and AI workloads.",
+  "benefits": [
+    "DigitalOcean credits for cloud infrastructure (amount varies)",
+    "$1.90/GPU/hour on-demand GPU Droplets for 12 months",
+    "Free Standard-tier support for 15 months",
+    "20% off Stripe Atlas and 1 year of Cloudflare Enterprise free"
+  ],
+  "eligibility": [
+    "Early-stage startups",
+    "Application required"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.digitalocean.com/startups",
+  "sources": [
+    {
+      "url": "https://www.digitalocean.com/startups",
+      "title": "Grow with the Startup-Friendly Inference Cloud | DigitalOcean Startups",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.digitalocean.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "DigitalOcean credits for cloud infrastructure (amount varies)",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "$1.90/GPU/hour on-demand GPU Droplets for 12 months",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Free Standard-tier support for 15 months",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "20% off Stripe Atlas and 1 year of Cloudflare Enterprise free",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Early-stage startups",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Application required",
+      "citations": [
+        {
+          "url": "https://www.digitalocean.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 2/2"
+  ],
+  "credit_value_usd": 0,
+  "category": "Cloud & Infrastructure"
+}

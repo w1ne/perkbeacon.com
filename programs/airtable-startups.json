@@ -1,0 +1,47 @@
+{
+  "id": "airtable-startups",
+  "name": "Airtable for Startups",
+  "provider": "Airtable for Startups",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "unknown"
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://www.airtable.com/startups",
+  "sources": [
+    {
+      "url": "https://www.airtable.com/startups",
+      "title": "Airtable",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.airtable.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [],
+  "confidence_score": 45,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits unknown",
+    "eligibility unknown"
+  ]
+}

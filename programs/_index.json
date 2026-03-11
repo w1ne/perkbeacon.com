@@ -1,0 +1,170 @@
+[
+  {
+    "id": "render-startups",
+    "name": "Render for Startups",
+    "status": "changed",
+    "provider": "Render"
+  },
+  {
+    "id": "segment-startups",
+    "name": "Segment Startup Program",
+    "status": "active",
+    "provider": "Segment Startup Program"
+  },
+  {
+    "id": "nvidia-inception",
+    "name": "NVIDIA Inception",
+    "status": "active",
+    "provider": "NVIDIA Inception"
+  },
+  {
+    "id": "hubspot-startups",
+    "name": "HubSpot for Startups",
+    "status": "changed",
+    "provider": "HubSpot"
+  },
+  {
+    "id": "microsoft-founders-hub",
+    "name": "Microsoft for Startups Founders Hub",
+    "status": "changed",
+    "provider": "Microsoft"
+  },
+  {
+    "id": "notion-startup",
+    "name": "Notion for Startups",
+    "status": "changed",
+    "provider": "Notion"
+  },
+  {
+    "id": "airtable-startups",
+    "name": "Airtable for Startups",
+    "status": "active",
+    "provider": "Airtable for Startups"
+  },
+  {
+    "id": "aws-activate",
+    "name": "AWS Activate",
+    "status": "changed",
+    "provider": "Amazon Web Services"
+  },
+  {
+    "id": "sentry-startups",
+    "name": "Sentry for Startups",
+    "status": "active",
+    "provider": "Sentry for Startups"
+  },
+  {
+    "id": "atlassian-startups",
+    "name": "Atlassian for Startups",
+    "status": "changed",
+    "provider": "Atlassian"
+  },
+  {
+    "id": "anthropic-startups",
+    "name": "Anthropic Startup Programs",
+    "status": "changed",
+    "provider": "Anthropic"
+  },
+  {
+    "id": "mercury-perks",
+    "name": "Mercury Perks",
+    "status": "active",
+    "provider": "Mercury"
+  },
+  {
+    "id": "digitalocean-hatch",
+    "name": "DigitalOcean Startups",
+    "status": "changed",
+    "provider": "DigitalOcean"
+  },
+  {
+    "id": "mongodb-startups",
+    "name": "MongoDB for Startups",
+    "status": "changed",
+    "provider": "MongoDB"
+  },
+  {
+    "id": "google-cloud-startups",
+    "name": "Google Cloud for Startups",
+    "status": "changed",
+    "provider": "Google"
+  },
+  {
+    "id": "webflow-startups",
+    "name": "Webflow for Startups",
+    "status": "active",
+    "provider": "Webflow for Startups"
+  },
+  {
+    "id": "cloudflare-startups",
+    "name": "Cloudflare for Startups",
+    "status": "changed",
+    "provider": "Cloudflare"
+  },
+  {
+    "id": "linear-startups",
+    "name": "Linear for Startups",
+    "status": "changed",
+    "provider": "Linear"
+  },
+  {
+    "id": "vercel-startups",
+    "name": "Vercel for Startups",
+    "status": "active",
+    "provider": "Vercel for Startups"
+  },
+  {
+    "id": "zendesk-startups",
+    "name": "Zendesk for Startups",
+    "status": "active",
+    "provider": "Zendesk for Startups"
+  },
+  {
+    "id": "ramp-startups",
+    "name": "Ramp for Startups",
+    "status": "active",
+    "provider": "Ramp for Startups"
+  },
+  {
+    "id": "miro-startups",
+    "name": "Miro for Startups",
+    "status": "changed",
+    "provider": "Miro"
+  },
+  {
+    "id": "stripe-atlas",
+    "name": "Stripe Atlas",
+    "status": "changed",
+    "provider": "Stripe"
+  },
+  {
+    "id": "github-startups",
+    "name": "GitHub for Startups",
+    "status": "changed",
+    "provider": "GitHub"
+  },
+  {
+    "id": "huggingface-startups",
+    "name": "Hugging Face Startup Program",
+    "status": "active",
+    "provider": "Hugging Face Startup Program"
+  },
+  {
+    "id": "brex-partner-perks",
+    "name": "Brex Partner Perks",
+    "status": "changed",
+    "provider": "Brex"
+  },
+  {
+    "id": "supabase-startups",
+    "name": "Supabase Startup Offers",
+    "status": "active",
+    "provider": "Supabase"
+  },
+  {
+    "id": "wandb-startups",
+    "name": "Weights & Biases for Startups",
+    "status": "active",
+    "provider": "Weights & Biases for Startups"
+  }
+]

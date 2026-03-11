@@ -1,0 +1,221 @@
+{
+  "id": "cloudflare-startups",
+  "name": "Cloudflare for Startups",
+  "provider": "Cloudflare",
+  "status": "changed",
+  "summary": "Security and performance services with zero-egress storage and high-value credit tiers.",
+  "benefits": [
+    "Up to $250,000 in Cloudflare credits for Tier 1 VC network or AI startups",
+    "$5,000 to $100,000 credit tiers based on funding and partner affiliation",
+    "Zero egress fee storage (R2) and Workers AI ML model hosting",
+    "Access to Workers Launchpad Program"
+  ],
+  "eligibility": [
+    "Founded within the last 5 years",
+    "Funded up to Series B",
+    "Software product or service with active website",
+    "Tier 4 ($250k) requires high growth, AI focus, or Tier 1 VC affiliation"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.cloudflare.com/forstartups/",
+  "sources": [
+    {
+      "url": "https://www.cloudflare.com/forstartups/",
+      "title": "Cloudflare for Startups",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.cloudflare.com/forstartups/",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $250,000 in Cloudflare credits for Tier 1 VC network or AI startups",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "$5,000 to $100,000 credit tiers based on funding and partner affiliation",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Zero egress fee storage (R2) and Workers AI ML model hosting",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Access to Workers Launchpad Program",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Founded within the last 5 years",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Funded up to Series B",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Software product or service with active website",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Tier 4 ($250k) requires high growth, AI focus, or Tier 1 VC affiliation",
+      "citations": [
+        {
+          "url": "https://www.cloudflare.com/forstartups/",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 4/4"
+  ],
+  "credit_value_usd": 250000,
+  "category": "Cloud & Infrastructure"
+}

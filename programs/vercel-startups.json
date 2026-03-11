@@ -1,0 +1,69 @@
+{
+  "id": "vercel-startups",
+  "name": "Vercel for Startups",
+  "provider": "Vercel for Startups",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required.",
+    "Geographic restrictions may apply."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://vercel.com/startups",
+  "sources": [
+    {
+      "url": "https://vercel.com/startups",
+      "title": "Vercel for Startups",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://vercel.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://vercel.com/startups",
+          "title": "Vercel for Startups",
+          "snippet": "cture Tools Marketplace Extend and automate workflows Templates Jumpstart app development Partner Finder Get help from solution partners Users Platform Engineers Automate away repe"
+        }
+      ]
+    },
+    {
+      "claim": "Geographic restrictions may apply.",
+      "citations": [
+        {
+          "url": "https://vercel.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 65,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits unknown",
+    "eligibility cited 2/2"
+  ]
+}

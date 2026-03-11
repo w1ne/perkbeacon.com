@@ -1,0 +1,246 @@
+{
+  "id": "google-cloud-startups",
+  "name": "Google Cloud for Startups",
+  "provider": "Google",
+  "status": "changed",
+  "summary": "Comprehensive cloud program offering massive credit tiers for AI-first companies and specialized support.",
+  "benefits": [
+    "Up to $350,000 in Cloud credits for AI-first startups over two years",
+    "Up to $200,000 in Cloud credits for Seed to Series A startups",
+    "$2,000 in credits for MVP development",
+    "12 months of free Google Workspace Business Plus for new sign-ups",
+    "Access to AI Academy and specialized startup success managers"
+  ],
+  "eligibility": [
+    "Seed to Series A startups for high-tier credits",
+    "Must be new to Google Cloud for high-tier benefits",
+    "AI-first startups get preferential credit caps"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://cloud.google.com/startup",
+  "sources": [
+    {
+      "url": "https://cloud.google.com/startup",
+      "title": "Startups | Google Cloud",
+      "fetched_at": "2026-03-09"
+    },
+    {
+      "url": "https://cloud.google.com/mongodb/startups",
+      "title": "MongoDB for Startups | Google Cloud",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://cloud.google.com/startup",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $350,000 in Cloud credits for AI-first startups over two years",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "Register for Google Cloud Next ’26 to join us in Las Vegas April 22-24. The next generation of startups are bu"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": " your business. Download the Future of AI: Perspectives for Startups report today. Google Cloud and MongoDB for Startups Build sophisticated, enterprise-ready intelligent apps fast"
+        }
+      ]
+    },
+    {
+      "claim": "Up to $200,000 in Cloud credits for Seed to Series A startups",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "Register for Google Cloud Next ’26 to join us in Las Vegas April 22-24. The next generation of startups are bu"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": " your business. Download the Future of AI: Perspectives for Startups report today. Google Cloud and MongoDB for Startups Build sophisticated, enterprise-ready intelligent apps fast"
+        }
+      ]
+    },
+    {
+      "claim": "$2,000 in credits for MVP development",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "platforms, models, agents, and data. Early stage startups can get up to $350,000 in Cloud credits through the Google for Startups Cloud Program, and Series B+ startups can continue"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "d MongoDB provide startups building AI technology and modern apps access to MongoDB Atlas credits, one-on-one technical advice, co-marketing opportunities, access to our partner ne"
+        }
+      ]
+    },
+    {
+      "claim": "12 months of free Google Workspace Business Plus for new sign-ups",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "Register for Google Cloud Next ’26 to join us in Las Vegas April 22-24. The next generation of startups are building on Google Cloud Nearly all AI unicorns are Google Cloud custome"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "can get up to $350,000 USD over two years. Google-wide discounts: New sign-ups receive 12 months of free Google Workspace Business Plus and monthly credits on Google Maps Platform "
+        }
+      ]
+    },
+    {
+      "claim": "Access to AI Academy and specialized startup success managers",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": " interactive demos, guided workshops, and more. Register here Startup events and webinars Access our event calendar to learn from Google Cloud experts and how the most successful s"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "o growth Google Cloud and MongoDB provide startups building AI technology and modern apps access to MongoDB Atlas credits, one-on-one technical advice, co-marketing opportunities, "
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Seed to Series A startups for high-tier credits",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "rney A customized approach to your growth journey Get up to $350,000 in credits if you're Seed to Series A Build and grow with $200,000 in cloud credits (or up to $350,000 for AI-f"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "Discover the perspectives of 23 industry leaders on the future of AI and its impact on your business. Download the Future of AI: Perspectives for Startups report today. Google Clou"
+        }
+      ]
+    },
+    {
+      "claim": "Must be new to Google Cloud for high-tier benefits",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": "Register for Google Cloud Next ’26 to join us in Las Vegas April 22-24. The next generation of startups are building on Google Cloud Nearly all AI unicorns are Google Cloud custome"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "Discover the perspectives of 23 industry leaders on the future of AI and its impact on your business. Download the Future of AI: Perspectives for Startups report today. Google Clou"
+        }
+      ]
+    },
+    {
+      "claim": "AI-first startups get preferential credit caps",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/startup",
+          "title": "Startups | Google Cloud",
+          "snippet": " Seed to Series A Build and grow with $200,000 in cloud credits (or up to $350,000 for AI-first startups) through the Google for Startups Cloud Program. Get $2,000 to build your MV"
+        },
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "ividual eligibility requirements. Our startup programs Program benefits Credits: Get your first year of Google Cloud usage covered with credits up to $100,000. Plus, in year two, g"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 5/5",
+    "eligibility cited 3/3"
+  ],
+  "credit_value_usd": 350000,
+  "category": "Cloud & Infrastructure"
+}

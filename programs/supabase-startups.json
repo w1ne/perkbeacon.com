@@ -1,0 +1,71 @@
+{
+  "id": "supabase-startups",
+  "name": "Supabase Startup Offers",
+  "provider": "Supabase",
+  "status": "active",
+  "summary": "Database credits specifically offered via partner cloud programs.",
+  "benefits": [
+    "$300 in Supabase credits for free over 12 months"
+  ],
+  "eligibility": [
+    "Requires AWS Activate membership to redeem via the AWS marketplace"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://aws.amazon.com/startups/offers/supabase",
+  "sources": [
+    {
+      "url": "https://aws.amazon.com/startups/offers/supabase",
+      "title": "AWS Activate Supabase Offer",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-09",
+      "note": "Discovered specific credit amount ($300) available via AWS partner marketplace."
+    }
+  ],
+  "benefits_evidence": [
+    {
+      "claim": "$300 in Supabase credits for free over 12 months",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/offers/supabase",
+          "title": "AWS Activate Supabase Offer | AWS Startups",
+          "snippet": "Offers Supabase $300 Supabase credits for free Estimated offer value: $300.00 AWS Marketplace Off"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Requires AWS Activate membership to redeem via the AWS marketplace",
+      "citations": [
+        {
+          "url": "https://aws.amazon.com/startups/offers/supabase",
+          "title": "AWS Activate Supabase Offer | AWS Startups",
+          "snippet": "Offers Supabase $300 Supabase credits for free Estimated offer value: $300.00 AWS Marketplace Offer Analytics Cost optimization Sign-up now to receive $300 Supabase credits over 12"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 1/1",
+    "eligibility cited 1/1"
+  ],
+  "credit_value_usd": 300,
+  "category": "Cloud & Infrastructure",
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://aws.amazon.com/startups/offers/supabase",
+    "http_status": 200,
+    "reason": "ok"
+  }
+}

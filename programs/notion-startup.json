@@ -1,0 +1,217 @@
+{
+  "id": "notion-startup",
+  "name": "Notion for Startups",
+  "provider": "Notion",
+  "status": "changed",
+  "summary": "Collaborative workspace offering free business plan access for scalable tech startups.",
+  "benefits": [
+    "Up to 6 months free on Business plan with Notion AI (partnered)",
+    "3 months free on Business plan with Notion AI (non-partnered)",
+    "Equivalent value up to $12,000 for up to 100 employees",
+    "One complimentary session with a Notion Certified Consultant"
+  ],
+  "eligibility": [
+    "Non-paying Notion customer",
+    "Under 100 employees",
+    "Company domain email required (no generic providers)",
+    "Must be building a scalable tech product for 3/6 month offers"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.notion.com/startups",
+  "sources": [
+    {
+      "url": "https://www.notion.com/startups",
+      "title": "Notion for Startups",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.notion.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to 6 months free on Business plan with Notion AI (partnered)",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "3 months free on Business plan with Notion AI (non-partnered)",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Equivalent value up to $12,000 for up to 100 employees",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "One complimentary session with a Notion Certified Consultant",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Non-paying Notion customer",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Under 100 employees",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Company domain email required (no generic providers)",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Must be building a scalable tech product for 3/6 month offers",
+      "citations": [
+        {
+          "url": "https://www.notion.com/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 4/4"
+  ],
+  "credit_value_usd": 12000,
+  "category": "SaaS & Productivity"
+}

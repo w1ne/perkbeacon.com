@@ -1,0 +1,145 @@
+{
+  "id": "render-startups",
+  "name": "Render for Startups",
+  "provider": "Render",
+  "status": "changed",
+  "summary": "Cloud platform for app deployment with dedicated tiers for AI workloads and scaling companies.",
+  "benefits": [
+    "AI Tier: $100,000 in startup credits plus 1:1 onboarding",
+    "Scale Tier: $25,000 (funding >$1M) or $10,000 (funding <$1M) in credits",
+    "Build Tier: $5,000 in credits via partner referral",
+    "Prototype Tier: $500 in credits for self-funded startups"
+  ],
+  "eligibility": [
+    "Founded less than 10 years ago",
+    "AI tier requires $2.5M+ funding from top-tier VCs",
+    "Prototype tier requires min $25K seed funding",
+    "Build/Scale tiers require application through enrolled partner"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://render.com/startups",
+  "sources": [
+    {
+      "url": "https://render.com/startups",
+      "title": "Startup Program | Render",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://render.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "AI Tier: $100,000 in startup credits plus 1:1 onboarding",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": " 2026 Deploy apps, APIs, and AI workloads in minutes Right-sized for startups Explore the tiers Prototype $500 in startup credits Startup-specific onboarding resources New customer"
+        }
+      ]
+    },
+    {
+      "claim": "Scale Tier: $25,000 (funding >$1M) or $10,000 (funding <$1M) in credits",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "rtup events New customer Applied through enrolled partner Less than 10 years in operation Scale $10K in startup credits for startups with less than $1M in funding $25K in startup c"
+        }
+      ]
+    },
+    {
+      "claim": "Build Tier: $5,000 in credits via partner referral",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "rding resources New customer Have seed funding (min $25K) Less than 10 years in operation Build $5K in startup credits Startup-specific onboarding resources Access to exclusive sta"
+        }
+      ]
+    },
+    {
+      "claim": "Prototype Tier: $500 in credits for self-funded startups",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "Deploy apps, APIs, and AI workloads in minutes Right-sized for startups Explore the tiers Prototype $500 in startup credits Startup-specific onboarding resources New customer Have "
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Founded less than 10 years ago",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "Migrate from Heroku and get up to $10k in credits Autoscaling Private Networking Persistent Disks Infrastructure as Code Preview Environments Zero Downtime Deploys Render API Stati"
+        }
+      ]
+    },
+    {
+      "claim": "AI tier requires $2.5M+ funding from top-tier VCs",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": " 2026 Deploy apps, APIs, and AI workloads in minutes Right-sized for startups Explore the tiers Prototype $500 in startup credits Startup-specific onboarding resources New customer"
+        }
+      ]
+    },
+    {
+      "claim": "Prototype tier requires min $25K seed funding",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "Deploy apps, APIs, and AI workloads in minutes Right-sized for startups Explore the tiers Prototype $500 in startup credits Startup-specific onboarding resources New customer Have "
+        }
+      ]
+    },
+    {
+      "claim": "Build/Scale tiers require application through enrolled partner",
+      "citations": [
+        {
+          "url": "https://render.com/startups",
+          "title": "Startup Program | Render",
+          "snippet": "rding resources New customer Have seed funding (min $25K) Less than 10 years in operation Build $5K in startup credits Startup-specific onboarding resources Access to exclusive sta"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 4/4"
+  ],
+  "credit_value_usd": 100000,
+  "category": "Cloud & Infrastructure"
+}

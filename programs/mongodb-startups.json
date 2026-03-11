@@ -1,0 +1,150 @@
+{
+  "id": "mongodb-startups",
+  "name": "MongoDB for Startups",
+  "provider": "MongoDB",
+  "status": "changed",
+  "summary": "Data platform program providing Atlas credits and access to Voyage AI embedding models.",
+  "benefits": [
+    "Up to $5,000 in MongoDB Atlas credits (higher for AI companies)",
+    "Access to Voyage AI tokens for high-performance retrieval",
+    "Dedicated expert technical session and 24/7 Developer Support (30 days free)",
+    "Co-marketing and co-sell opportunities for eligible AI startups"
+  ],
+  "eligibility": [
+    "Less than 7 years old",
+    "Series A or earlier funding",
+    "New participants only",
+    "Software-based product (no agencies)"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.mongodb.com/solutions/startups",
+  "sources": [
+    {
+      "url": "https://www.mongodb.com/solutions/startups",
+      "title": "MongoDB For Startups",
+      "fetched_at": "2026-03-09"
+    },
+    {
+      "url": "https://cloud.google.com/mongodb/startups",
+      "title": "MongoDB for Startups | Google Cloud",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.mongodb.com/solutions/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to $5,000 in MongoDB Atlas credits (higher for AI companies)",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "ness. Download the Future of AI: Perspectives for Startups report today. Google Cloud and MongoDB for Startups Build sophisticated, enterprise-ready intelligent apps fast while rem"
+        }
+      ]
+    },
+    {
+      "claim": "Access to Voyage AI tokens for high-performance retrieval",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "o growth Google Cloud and MongoDB provide startups building AI technology and modern apps access to MongoDB Atlas credits, one-on-one technical advice, co-marketing opportunities, "
+        }
+      ]
+    },
+    {
+      "claim": "Dedicated expert technical session and 24/7 Developer Support (30 days free)",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "tups to scale faster, safer, and more successfully by combining powerful technologies and dedicated startup programs. Unlock your AI startup potential MongoDB's developer data plat"
+        }
+      ]
+    },
+    {
+      "claim": "Co-marketing and co-sell opportunities for eligible AI startups",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "chnology and modern apps access to MongoDB Atlas credits, one-on-one technical advice, co-marketing opportunities, access to our partner network, and more. Learn more about how Nao"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Less than 7 years old",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "Discover the perspectives of 23 industry leaders on the future of AI and its impact on your business. Download the Future of AI: Perspectives for Startups report today. Google Clou"
+        }
+      ]
+    },
+    {
+      "claim": "Series A or earlier funding",
+      "citations": [
+        {
+          "url": "https://www.mongodb.com/solutions/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "New participants only",
+      "citations": [
+        {
+          "url": "https://www.mongodb.com/solutions/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Software-based product (no agencies)",
+      "citations": [
+        {
+          "url": "https://cloud.google.com/mongodb/startups",
+          "title": "MongoDB for Startups  | Google Cloud",
+          "snippet": "Discover the perspectives of 23 industry leaders on the future of AI and its impact on your business. Download the Future of AI: Perspectives for Startups report today. Google Clou"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 90,
+  "confidence_reasons": [
+    "program page verified",
+    "2 source(s)",
+    "benefits cited 4/4",
+    "eligibility cited 4/4"
+  ],
+  "credit_value_usd": 5000,
+  "category": "Cloud & Infrastructure"
+}

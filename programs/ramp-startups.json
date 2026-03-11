@@ -1,0 +1,69 @@
+{
+  "id": "ramp-startups",
+  "name": "Ramp for Startups",
+  "provider": "Ramp for Startups",
+  "status": "active",
+  "summary": "Tracked startup program; details pending verification.",
+  "benefits": [
+    "unknown"
+  ],
+  "eligibility": [
+    "Partner or accelerator affiliation may be required.",
+    "Requires card/account membership."
+  ],
+  "regions": [
+    "unknown"
+  ],
+  "application_url": "https://ramp.com/startups",
+  "sources": [
+    {
+      "url": "https://ramp.com/startups",
+      "title": "Startup Business Credit Cards With No Personal Guarantee",
+      "fetched_at": "2026-03-08T11:23:22.831081Z"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://ramp.com/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [],
+  "eligibility_evidence": [
+    {
+      "claim": "Partner or accelerator affiliation may be required.",
+      "citations": [
+        {
+          "url": "https://ramp.com/startups",
+          "title": "Startup Business Credit Cards With No Personal Guarantee",
+          "snippet": "ups can access limits higher than traditional cards, earn cash back, unlock over $350K in partner rewards, and up to 5% 1 savings. Startups focused on spend and expense management."
+        }
+      ]
+    },
+    {
+      "claim": "Requires card/account membership.",
+      "citations": [
+        {
+          "url": "https://ramp.com/startups",
+          "title": "Startup Business Credit Cards With No Personal Guarantee",
+          "snippet": "Products Solutions Customers Resources Pricing A business credit card for startups built for fast-growing teams. Ramp combines corporate cards for startups with finance software—of"
+        }
+      ]
+    }
+  ],
+  "confidence_score": 65,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits unknown",
+    "eligibility cited 2/2"
+  ]
+}

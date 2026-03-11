@@ -1,0 +1,217 @@
+{
+  "id": "atlassian-startups",
+  "name": "Atlassian for Startups",
+  "provider": "Atlassian",
+  "status": "changed",
+  "summary": "Provides free access to Premium editions of the Atlassian suite for early-stage teams.",
+  "benefits": [
+    "12 months free for up to 50 users on Jira Premium and Confluence Premium",
+    "Loom Business + AI free for up to 50 seats",
+    "Jira Product Discovery Premium (up to 10 creators)",
+    "Compass Premium and Bitbucket Premium (up to 50 seats)",
+    "Dedicated Customer Success Managers"
+  ],
+  "eligibility": [
+    "Not an existing Atlassian paid customer",
+    "VC funded or associated with a partner accelerator/incubator",
+    "Raised less than $10 million in external funding"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://www.atlassian.com/software/startups",
+  "sources": [
+    {
+      "url": "https://www.atlassian.com/software/startups",
+      "title": "Atlassian for Startups | Atlassian",
+      "fetched_at": "2026-03-08"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "new program"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "material update"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "reactivated from live source"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-06",
+      "note": "re-verified"
+    },
+    {
+      "date": "2026-03-08",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://www.atlassian.com/software/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "12 months free for up to 50 users on Jira Premium and Confluence Premium",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Loom Business + AI free for up to 50 seats",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Jira Product Discovery Premium (up to 10 creators)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Compass Premium and Bitbucket Premium (up to 50 seats)",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Dedicated Customer Success Managers",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Not an existing Atlassian paid customer",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "VC funded or associated with a partner accelerator/incubator",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "claim": "Raised less than $10 million in external funding",
+      "citations": [
+        {
+          "url": "https://www.atlassian.com/software/startups",
+          "title": "verified program page",
+          "snippet": ""
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 5/5",
+    "eligibility cited 3/3"
+  ],
+  "credit_value_usd": 0,
+  "category": "SaaS & Productivity"
+}

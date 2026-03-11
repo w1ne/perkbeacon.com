@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Startup Beacon: Rhoda AI | PerkBeacon Startup Beacon</title>
+  <style>
+:root {
+  --bg: #f7f8f5;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #5b6472;
+  --line: #dbe0e6;
+  --accent: #0d5b42;
+  --accent-soft: #edf7f3;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 15% -10%, #e8f3ee, transparent), var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Sans", "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+.container {
+  width: min(1180px, 92vw);
+  margin: 2rem auto 3rem;
+}
+header h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  letter-spacing: -0.02em;
+}
+.subtitle { color: var(--muted); margin-top: .35rem; }
+.section { margin-top: 1.5rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.badge {
+  display: inline-block;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid #cfe6dc;
+  border-radius: 999px;
+  font-size: .74rem;
+  padding: .2rem .55rem;
+  margin-bottom: .5rem;
+}
+.card h3 { margin: 0 0 .4rem; font-size: 1.02rem; }
+.card p { margin: .2rem 0; color: var(--muted); font-size: .92rem; }
+a { color: #0a5bbb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.kpi {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: .8rem;
+}
+.kpi .card { text-align: center; }
+.kpi strong { display: block; font-size: 1.45rem; }
+.table-wrap { overflow: auto; }
+table { width: 100%; border-collapse: collapse; background: var(--card); }
+th, td { text-align: left; padding: .65rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: #f8fafc; font-size: .9rem; }
+th button.sort-btn {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  padding: 0;
+  cursor: pointer;
+}
+th button.sort-btn::after {
+  content: " \2195";
+  color: #8a95a4;
+  font-size: .82em;
+}
+th button.sort-btn[data-dir="asc"]::after { content: " \2191"; color: var(--accent); }
+th button.sort-btn[data-dir="desc"]::after { content: " \2193"; color: var(--accent); }
+small.muted { color: var(--muted); }
+.report {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.2rem;
+}
+.report h1, .report h2, .report h3 { line-height: 1.2; }
+.report code { background: #f2f4f7; padding: .12rem .3rem; border-radius: 4px; }
+.report pre { background: #f2f4f7; padding: .8rem; overflow: auto; border-radius: 8px; }
+.report img { max-width: 100%; height: auto; border-radius: 8px; margin: 1.5rem 0; display: block; }
+</style>
+</head>
+<body>
+  <main class="container">
+    <p><a href="/">PerkBeacon Home</a> · <a href="/news/">Startup Beacon</a></p>
+    <article class="report"><h1>Global Seed Radar: rhoda-ai</h1>
+<p><em>March 10, 2026 · Robotics/AI</em></p>
+<hr />
+<h2>Quick Snapshot</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Info</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Founded</td>
+<td>Late 2024 (Exited stealth March 10, 2026)</td>
+</tr>
+<tr>
+<td>HQ</td>
+<td>Palo Alto, CA</td>
+</tr>
+<tr>
+<td>Industry</td>
+<td>Robotics/AI</td>
+</tr>
+<tr>
+<td>Website</td>
+<td>rhoda.ai</td>
+</tr>
+<tr>
+<td>Funding</td>
+<td>450M Series A at a $1.7B valuation</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>What They Do</h2>
+<p>Rhoda AI is building a "general-purpose bimanual manipulation platform" designed to operate in unpredictable, unstructured, real-world environments. While traditional robots excel in controlled settings with pre-programmed paths, they fail when faced with minor environmental changes.
+Instead of relying solely on traditional reinforcement learning or human teleoperation data—which is expensive and hard to scale—Rhoda AI introduced FutureVision, a proprietary architecture they call a Direct Video Action (DVA) model.</p>
+<p><img alt="Rhoda AI Platform" src="./images/rhoda-ai-platform.png" /></p>
+<p><strong>Pre-training.</strong></p>
+<p>They train their models on hundreds of millions of internet videos to build a strong "prior" understanding of physics, motion, and physical interactions.</p>
+<p><strong>Post-training.</strong></p>
+<p>They fine-tune the model using a smaller subset of actual robot telemetry to teach embodiment-specific behaviors.</p>
+<p><strong>Execution.</strong></p>
+<p>The system continuously observes the environment, predicts future states as video, and converts those predictions into physical actions in a closed loop every few hundred milliseconds.</p>
+<p>Their hardware is heavily focused on bimanual manipulation (two arms working in tandem) and is reportedly designed to handle both complex dexterity (like unboxing) and heavy lifting, a major hurdle for current humanoid prototypes.</p>
+<h2>How They Make Money</h2>
+<p>While their exact SaaS/RaaS (Robotics-as-a-Service) pricing model isn't public, they are targeting enterprise logistics and manufacturing. The newly raised capital is explicitly earmarked for expanding industrial deployments and customer pilots with leading partners in these sectors.</p>
+<p>In the near term, revenue will likely come from paid pilot programs where their robots tackle specific, high-friction supply chain tasks. Long-term, they will likely transition to a scalable leasing or software-licensing model based on deployment scale.</p>
+<h2>The Moat: Foundational Uniqueness &amp; Scalability</h2>
+<p>Rhoda AI’s defensibility hinges on solving the "robustness gap"—the failure rate that occurs when a robot moves from a pristine lab to a messy warehouse with different lighting, shifting layouts, and unseen objects.</p>
+<p>Their moat consists of:</p>
+<p><strong>A novel data pipeline.</strong></p>
+<p>By treating internet video as the primary training ground for physical commonsense, they bypass the bottleneck of manually teleoperating robots to gather training data.</p>
+<p><strong>Closed-loop dynamic feedback.</strong></p>
+<p>Unlike open-loop vision-language-action (VLA) models that generate a plan and blindly execute it, Rhoda’s DVA model updates its behavior dynamically based on continuous stereo-camera feedback.</p>
+<p><strong>Elite Talent.</strong></p>
+<p>The intersection of Jagdeep Singh's proven hardware-scaling experience (QuantumScape) with top-tier Stanford and Berkeley research talent.</p>
+<h2>Funding</h2>
+<p>Rhoda AI has massive financial backing. On March 10, 2026, they announced a $450 million Series A, valuing the company at $1.7 billion.</p>
+<h2>Lead Investor: Premji Invest</h2>
+<p>Notable Backers: Khosla Ventures, Temasek Holdings, and John Doerr.</p>
+<h2>Our Take</h2>
+<h3>What we like</h3>
+<p><strong>The "Video-First" Approach.</strong></p>
+<p>Leveraging internet-scale video to teach robots physics is a brilliant way to solve the data scarcity problem that has historically bottlenecked robotics.</p>
+<p><strong>Heavy-Hitting Leadership.</strong>
+Jagdeep Singh knows how to scale incredibly difficult, capital-intensive hardware (having taken QuantumScape to a massive valuation).</p>
+<p><strong>Focus on the "Robustness Gap".</strong>
+They aren't building a cool lab demo; their entire architecture is designed to handle the messy, slightly-off-center realities of actual warehouses.</p>
+<h3>What to watch</h3>
+<p><strong>Simulation vs. Reality.</strong></p>
+<p>Can predicting video frames truly translate to understanding tactile force, friction, and resistance when lifting heavy, deformable objects?</p>
+<p><strong>The Valuation Hype.</strong></p>
+<p>A $1.7 billion valuation at Series A means the market is pricing them for perfection. They will need to show fast, scalable commercial pilots to justify the hype.</p>
+<p><strong>Fierce Competition.</strong></p>
+<p>They are entering a bloodbath of well-funded embodied AI startups (Figure AI, Physical Intelligence, Genesis AI, Tesla). Maintaining a technical edge will be expensive and difficult.</p></article>
+  </main>
+</body>
+</html>

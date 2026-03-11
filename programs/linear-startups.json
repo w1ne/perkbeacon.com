@@ -1,0 +1,119 @@
+{
+  "id": "linear-startups",
+  "name": "Linear for Startups",
+  "provider": "Linear",
+  "status": "changed",
+  "summary": "Issue tracking and project planning tool offer for early-stage teams.",
+  "benefits": [
+    "Up to 6 months free on Basic or Business plans",
+    "Access to Cycles, roadmaps, and project planning features",
+    "Integration with Figma, GitHub, and Slack"
+  ],
+  "eligibility": [
+    "Affiliated with an official Linear partner",
+    "Fewer than 50 employees",
+    "Non-paying Linear user"
+  ],
+  "regions": [
+    "global"
+  ],
+  "application_url": "https://linear.app/startups",
+  "sources": [
+    {
+      "url": "https://linear.app/startups",
+      "title": "Linear for Startups",
+      "fetched_at": "2026-03-09"
+    }
+  ],
+  "last_verified_at": "2026-03-09",
+  "change_log": [
+    {
+      "date": "2026-03-08",
+      "note": "seeded from configured provider"
+    },
+    {
+      "date": "2026-03-09",
+      "note": "material update"
+    }
+  ],
+  "verification": {
+    "checked_at": "2026-03-09",
+    "status": "verified",
+    "url": "https://linear.app/startups",
+    "http_status": 200,
+    "reason": "ok"
+  },
+  "benefits_evidence": [
+    {
+      "claim": "Up to 6 months free on Basic or Business plans",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": " up Linear for startups Discover the issue tracker that startups love to use. Get up to 6 months free with the Linear Startup Program. Build and scale your product with Linear Line"
+        }
+      ]
+    },
+    {
+      "claim": "Access to Cycles, roadmaps, and project planning features",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": "tups affiliated with a partner in Linear’s Startup Program receive up to 6 months of free access to Linear’s Basic and Business plans . To redeem the offer you must be affiliated w"
+        }
+      ]
+    },
+    {
+      "claim": "Integration with Figma, GitHub, and Slack",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": "ild Diffs Monitor Pricing Security Features Asks Agents Customer Requests Insights Mobile Integrations Changelog Company About Customers Careers Blog Method Quality Brand Resources"
+        }
+      ]
+    }
+  ],
+  "eligibility_evidence": [
+    {
+      "claim": "Affiliated with an official Linear partner",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": "en using it since day one.” Get started for free with the Linear Startup Program Startups affiliated with a Linear partner can upgrade to Linear’s Basic or Business plans and get u"
+        }
+      ]
+    },
+    {
+      "claim": "Fewer than 50 employees",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": "s Basic or Business plans and get up to 6 months off. Six months free New Linear customer Fewer than 50 employees Affiliated with a Linear partner Questions and answers The Linear "
+        }
+      ]
+    },
+    {
+      "claim": "Non-paying Linear user",
+      "citations": [
+        {
+          "url": "https://linear.app/startups",
+          "title": "Linear for Startups – Linear",
+          "snippet": " you must be affiliated with an official Linear partner . The offer is only valid for non-paying Linear users with less than 50 employees. To apply, enter your partner code in the "
+        }
+      ]
+    }
+  ],
+  "confidence_score": 85,
+  "confidence_reasons": [
+    "program page verified",
+    "1 source(s)",
+    "benefits cited 3/3",
+    "eligibility cited 3/3"
+  ],
+  "credit_value_usd": 0,
+  "category": "Developer Tools"
+}
